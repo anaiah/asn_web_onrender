@@ -858,6 +858,8 @@ const util = {
                                 util.speak(data.message)
                                 util.hideModal('claimsModal',2000)//then close form    
                             }
+
+                            return true
                         })
                         // Handle the success response object
                         .catch( (error) => {
