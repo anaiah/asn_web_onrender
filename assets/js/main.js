@@ -1037,7 +1037,7 @@ const asn = {
         });//========================initiate socket handshake ================
             
         console.log('main.js SPEAK()')
-        //asn.speaks(  util.getCookie('f_voice')) //==FIRST welcome GREETING HERE ===
+        asn.speaks(  util.getCookie('f_voice')) //==FIRST welcome GREETING HERE ===
 
          //===first call load page 1
          //console.log('first osndp.getAll() index.js')
