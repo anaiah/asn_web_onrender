@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585444026399",
+    "project_id": "vantaztic-push-notification",
+    "storage_bucket": "vantaztic-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585444026399:android:e904ba9b36c75856260d2a",
+        "android_client_info": {
+          "package_name": "com.vantaztic.push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjqKLuHBWJijy0f0JxGqySwWj3_0Rhh_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

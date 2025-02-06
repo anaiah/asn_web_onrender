@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<body>
+    <select id="test" name="test" onclick="document.getElementById('result').innerHTML=this.value">
+        <options value="">--pls select --</options>
+    </select>
+    <p><div id="result"></div></p>
+    
+</body>
+
+<script>
+
+    const x = {
+        populate:async ( selectElement )=>{
+          
+            await fetch( `http://localhost:10000/getMall/MALL003`)
+            .then(response => { 
+                return response.json()
+            })
+            .then( (data)=>{
+                for (let key in data.result) {
+                    let option = document.createElement("option")
+                    option.setAttribute('value', data.result[key].mall_name)
+                  
+                    let optionText = document.createTextNode( data.result[key].mall_name )
+                    option.appendChild(optionText)
+                  
+                    selectElement.appendChild(option)
+                }
+    
+                selectElement.focus()
+            
+            }) 
+            .catch(error => { 
+                console.log("An error occurred: ", error); 
+            })        
+    
+        },
+    
+        removeOptions: (selectElement) => {
+            console.log('here first')
+            var i, L = selectElement.options.length - 1;
+            for(i = L; i >= 0; i--) {
+               selectElement.remove(i);
+            }
+        },
+
+        init:()=>{
+            const domx = document.getElementById('test')
+            x.removeOptions( domx )
+            x.populate( domx )
+        },
+    
+    }
+    
+    x.init()
+    
+    </script>
+    
+</html>

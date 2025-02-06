@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AsiaNow Enc. Inc.</title>
+  <!-- <link rel="shortcut icon" type="image/png" href="../assets/images/logos/favicon.png" /> -->
+  <link rel="shortcut icon" href="/assets/images/logos/asiaoneico.png" type="image/x-icon" sizes="32x32">  
+  <!-- <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css?h=0516002ac6166f9bc5a60df257b0e1f8">
+    -->
+  <link rel="stylesheet" href="/assets/css/styles.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/css/osndp.css" />
+</head>
+
+<body>
+  <!--  Body Wrapper -->
+  <div id="kutos">
+  <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+    data-sidebar-position="fixed" data-header-position="fixed">
+    <div class="position-relative overflow-hidden radial-gradient min-vh-100 d-flex align-items-center justify-content-center">
+      <div class="d-flex align-items-center justify-content-center w-100">
+        <div class="row justify-content-center w-100">
+          <div class="col-md-8 col-lg-6 col-xxl-3">
+            <div class="card mb-0">
+              <div class="card-body w-70">
+                <!--//company logo -->
+                <a href="./index.html" class="text-nowrap logo-img text-center d-block py-3 w-100">
+                  <img src="/assets/images/logos/asiaone_.png"  width="180" alt="" />
+                </a>
+
+                <p class="text-center">Asia Now Enterprise Inc.</p>
+                <!--//end company logo -->
+                <form id="loginForm" name="loginForm" class="needs-validation">
+                  
+                  <!--//=== ALERT CONTAINER!!!-->
+                  <div id="loginPlaceHolder"></div>
+                  <!--//END ALERT-->
+
+                  <div class="mb-3">
+                    <i class="ti ti-user" style="color:blue"></i>
+                    <label for="uid" class="form-label">Username</label>
+                    <input type="email" class="form-control login" id="uid" name="uid" aria-describedby="emailHelp" required>
+                    <div class="invalid-feedback">
+                      Enter valid email address
+                    </div>
+                    <div class="valid-feedback">
+                        Looking Good!
+                    </div>
+                  </div>
+                  
+                  <div class="mb-4">
+                    <i class="ti ti-lock" style="color:blue"></i>
+                    <label for="pwd" class="form-label">Password</label>
+                    <input type="password" class="form-control login" id="pwd" name="pwd" required>
+                    <div class="invalid-feedback">
+                      Enter valid password
+                    </div>
+                    <div class="valid-feedback">
+                        Looking Good!
+                    </div>
+                
+                  </div>
+              
+                  
+                  <div class="d-flex align-items-center justify-content-between mb-4">
+                    <div class="form-check">
+                      <input class="form-check-input primary" type="checkbox" value="" id="flexCheckChecked" checked>
+                      <label class="form-check-label text-dark" for="flexCheckChecked">
+                        Remember Me
+                      </label>
+                    </div>
+                    <a class="text-primary fw-bold" href="javascript:void(0)">Forgot Password ?</a>
+                  </div>
+
+                  <!-- <a href="./index.html" class="btn btn-primary w-100 py-8 fs-4 mb-4 rounded-2">Sign In</a>
+                   -->
+                 
+                   <div class="d-flex align-items-center justify-content-center">
+                    <p class="fs-4 mb-0 fw-bold">New to Asia Now?</p>
+                    <a class="text-primary fw-bold ms-2" href="javascript:util.modalShow('newempModal')">Create an account</a>
+                  </div>
+                  
+                  <div class="modal-footer">
+                    <!-- <button class="btn btn-light"  type="button" data-bs-dismiss="modal">Close</button> -->
+                    <button class="btn btn-primary"  id="loginbtn" onclick="util.validateMe('loginModal','#loginForm','login')" type="button"><i class="fa fa-paper-plane" aria-hidden="true"></i>
+                      &nbsp;Login</button>
+                  </div>
+
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!--//Modal for adding New Site //-->
+<div class="modal fade" id="newempModal" tabindex="-1" aria-labelledby="newsiteModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen modal-dialog-scrollable">
+      <div class="modal-content">
+          
+          <div class="modal-header bg-primary">
+              <h4 class="modal-title"><i class="bi-pencil-square" style="font-size:17px"></i> Create Account</h4>
+              <button class="btn-close" type="button" data-bs-dismiss="modal"></button>
+          </div>
+
+          <!--//modal body-->
+          <div class="modal-body">
+              
+              <!--//=== ALERT CONTAINER!!!-->
+              <div id="newsitePlaceHolder"></div>
+              <!--//END ALERT-->
+
+              <div class="container-fluid" >	
+                  <!--//form goes here -->
+                  <!--//FORM SIGNUP-->
+                  <form id="newempForm" class="needs-validation row gy-2 gx-2 align-items-center" method="GET" novalidate>
+                    <div class="container mt-5">
+                      <h2>HRIS 201 Form</h2>
+                      
+                          <div class="mb-3">
+                              <label for="employeeId"  class="form-label">Employee ID</label>
+                              <input type="text" class="form-control 201" id="employeeId" name="employeeId" required>
+                          </div>
+                          <div class="mb-3">
+                              <label for="fullName" class="form-label">Full Name</label>
+                              <input type="text" class="form-control 201" id="fullName" name="fullName" required>
+                          </div>
+                          <div class="mb-3">
+                              <label for="email" class="form-label">Email Address</label>
+                              <input type="email" class="form-control 201"  value="a@b.com" id="email" name="email" required>
+                          </div>
+                          <div class="mb-3">
+                              <label for="phone" class="form-label">Phone Number</label>
+                              <input type="tel" class="form-control 201" value="0917 283 1929" id="phone" name="phone" required>
+                          </div>
+                          <div class="mb-3">
+                              <label for="birthDate" class="form-label">Date of Birth</label>
+                              <input type="date" class="form-control" value="01/01/1970" id="birthDate" name="birthDate" required>
+                          </div>
+                          <div class="mb-3">
+                              <label for="hireDate" class="form-label">Hire Date</label>
+                              <input type="date" class="form-control 201" value="01/01/2025" id="hireDate" name="hireDate" required>
+                          </div>
+                          <div class="mb-3">
+                              <label for="jobTitle" class="form-label">Job Title</label>
+                              <input type="text" class="form-control 201" value="quality cntrol" id="jobTitle" name="jobTitle" required>
+                          </div>
+                          <div class="mb-3">
+                              <label for="department" class="form-label">Department</label>
+                              <input type="text" class="form-control 201" value="IT" id="department" name="department" required>
+                          </div>
+                          <div class="mb-3">
+                              <label for="employmentStatus" class="form-label">Employment Status</label>
+                              <select class="form-control 201" id="employmentStatus" name="employmentStatus" required>
+                                  <option value="" disabled>Select status</option>
+                                  <option value="Full-Time" selected>Full-Time</option>
+                                  <option value="Part-Time">Part-Time</option>
+                                  <option value="Contract">Contract</option>
+                              </select>
+                          </div>
+                          <div class="mb-3">
+                              <label for="address" class="form-label">Address</label>
+                              <textarea class="form-control 201" id="address" rows="3" name="address" required>Manila</textarea>
+                          </div>
+                          <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
+                      
+                  </div>
+                         
+                  </form>
+                  <!--//end form -->
+                  
+                  <div class="row">
+                    <div class="col-lg-4 mb-0">
+                      <!-- //form file upload onrender.com -->
+                      <form id="uploadForm" name="uploadForm" action="" enctype="multipart/form-data" method="post">
+                        <div class="form-outline">
+                          <label class="form-label mb-0" for="uploaded_file">Upload Picture</label>
+                          <input onchange="javascript:main.checkFileSize()" class="form-control equipmentxx" type="file" name="uploaded_file" id="uploaded_file" accept='image/*' required />
+                          <input id="upload-btn" class="btn btn-warning lets-hide" type="submit" value="Upload">
+                          <p><span id="size"></span></p>
+                          <div id="blindspot"></div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                  
+              </div><!--//end container-fluid//-->
+              
+          </div><!--//end modalbody//-->
+          <!--//footer-->
+          <div class="modal-footer">
+              <button class="btn btn-light" type="button" data-bs-dismiss="modal">Close</button>
+              <button class="btn btn-primary" id="mall-save-btn" onclick="javascript:util.validateMe('newempModal','#newempForm','201')" type="button">
+              <i id="i-save" class="fa fa-floppy-o"></i> Save
+              </button>
+          </div>
+      </div>
+  </div>
+</div>					
+<!--//end newsiteModal//-->
+
+  <style>
+  /* @import url(//fonts.googleapis.com/css?family=Lato); */
+
+    body{ 
+
+      min-height: 100vh;
+      background:url('/assets/images/backgrounds/asiaone1.png') no-repeat center center fixed; 
+      -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+
+    }
+    :target{
+	  border:1px solid gray;
+    }
+
+    *, *::before, *::after{
+      box-sizing: border-box;
+    }
+  </style>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+     -->
+  <!-- <script src="../assets/libs/jquery/dist/jquery.min.js"></script> -->
+  <script src="/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  
+  <script src="/assets/js/util.js"></script>
+  <script src="/assets/js/login.js"></script>
+
+  <script>
+    const main = {
+      checkFileSize:()=>{
+        const fi = document.getElementById('uploaded_file');
+        // Check if any file is selected.
+        if (fi.files.length > 0) {
+            for (let i = 0; i <= fi.files.length - 1; i++) {
+
+                const fsize = fi.files.item(i).size;
+                const file = Math.round((fsize / 1024));
+                // The size of the file.
+                if (file >= 1000) {
+                    const btnupload = document.getElementById('mall-save-btn')
+                    btnupload.disabled = true
+
+                    util.alertMsg("File too Big, please select a file less than 1mb","danger","size");
+                    
+                    fi.value=null
+                    //go bottom page
+                    util.scrollsTo('blindspot')
+
+                    return false;
+
+                }else{
+                    
+                    document.getElementById('size').innerHTML=""//reset
+                    const btnupload = document.getElementById('mall-save-btn')
+                    btnupload.disabled = false
+                }
+                /* turn off display of filesize */
+                ///document.getElementById('size').innerHTML ='<b>'+ file + '</b> KB';
+                
+            }
+        }
+    }
+    }
+    
+  </script>
+  
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+<!-- serial no. -->
+                <div class="col-sm-4 mb-3 mt-auto align-self-start">
+                  <div class="form-outline">
+                    <label for="filter_number" class="text-nowrap form-label">Filter by Employee Number</label>
+                    <input  value="" placeholder="Search Employee Number" minlength="4" type="text" onchange="" class="form-control" id="filter_number" name="filter_number">
+                    <div class="invalid-feedback">
+                      *Minimum Length of Input is 5
+                    </div>
+                    <div class="valid-feedback">
+                      Looking Good!
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-sm-4 mb-3 mt-auto align-self-start">
+                  <div class="form-outline">
+                    <label for="filter_name" class="text-nowrap form-label">Filter by Employee Name</label>
+                    <input value=""  placeholder="Search for Name" type="text" minlength="5" onchange="" class="form-control" id="filter_name" name="filter_name">
+                    <div class="invalid-feedback">
+                      *Minimum Length of Input is 5
+                    </div>
+                    <div class="valid-feedback">
+                      Looking Good!
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-sm-2 mb-3 mt-auto align-self-start">
+                  <div class="form-outline">
+                    <button class="btn btn-primary"  id="search-btn" onclick="javascript:asn.getRecord(`${document.getElementById('filter_number').value}`,`${document.getElementById('filter_name').value}`)" type="button">
+                      <i id="i-save" class="ti ti-file-search"></i> Search
+                    </button>
+                  </div>
+                </div>FA
