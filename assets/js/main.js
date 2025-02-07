@@ -1002,6 +1002,10 @@ const asn = {
 
 	//==,= main run
 	init : async () => {
+
+
+
+        
         asn.getTopHub()
         
 		//change form action 
@@ -1027,9 +1031,7 @@ const asn = {
         //==HANDSHAKE FIRST WITH SOCKET.IO
         const userName = { token : authz[1] , mode: 1}//full name token
 
-        asn.socket = io.connect(`${myIp}`, {
-        // zonked.socket = io.connect("https://osndp.onrender.com", {
-            //withCredentials: true,
+        asn.socket = io.connect(`${myIp}`, {            //withCredentials: true,
             query:`userName=${JSON.stringify(userName)}`
             // extraHeaders: {
             //   "osndp-header": "osndp"
