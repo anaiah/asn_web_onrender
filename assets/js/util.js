@@ -6,9 +6,9 @@ this is for utilities
 modals,forms,utilities
 
 */ 
-//const myIp = "https://asn-api.onrender.com"
+const myIp = "https://asn-api.onrender.com"
 
-const myIp = "http://192.168.191.221:10000"
+//const myIp = "http://192.168.191.221:10000"
 
 const requirements = document.querySelectorAll(".requirements")
 const specialChars = "!@#$%^&*()-_=+[{]}\\| :'\",<.>/?`~"
