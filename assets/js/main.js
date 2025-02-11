@@ -1003,9 +1003,6 @@ const asn = {
 	//==,= main run
 	init : async () => {
 
-
-
-        
         asn.getTopHub()
         
 		//change form action 

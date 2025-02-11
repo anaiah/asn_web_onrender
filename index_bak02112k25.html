@@ -68,6 +68,24 @@
                   </div>
               
                   
+                  <div class="d-flex align-items-center justify-content-between mb-4">
+                    <div class="form-check">
+                      <input class="form-check-input primary" type="checkbox" value="" id="flexCheckChecked" checked>
+                      <label class="form-check-label text-dark" for="flexCheckChecked">
+                        Remember Me
+                      </label>
+                    </div>
+                    <a class="text-primary fw-bold" href="javascript:void(0)">Forgot Password ?</a>
+                  </div>
+
+                  <!-- <a href="./index.html" class="btn btn-primary w-100 py-8 fs-4 mb-4 rounded-2">Sign In</a>
+                   -->
+                 
+                   <div class="d-flex align-items-center justify-content-center">
+                    <p class="fs-4 mb-0 fw-bold">New to Asia Now?</p>
+                    <a class="text-primary fw-bold ms-2" href="javascript:util.modalShow('newempModal')">Create an account</a>
+                  </div>
+                  
                   <div class="modal-footer">
                     <!-- <button class="btn btn-light"  type="button" data-bs-dismiss="modal">Close</button> -->
                     <button class="btn btn-primary"  id="loginbtn" onclick="util.validateMe('loginModal','#loginForm','login')" type="button"><i class="fa fa-paper-plane" aria-hidden="true"></i>
@@ -242,7 +260,7 @@
                 console.error("Audio playback failed:", error);
             });
             document.getElementById('myCard').classList.add('show');
-        }, 2000); // Delay of 1000 milliseconds (1 second)
+        }, 2500); // Delay of 1000 milliseconds (1 second)
     });
 
     const main = {
