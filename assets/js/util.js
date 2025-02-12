@@ -6,9 +6,9 @@ this is for utilities
 modals,forms,utilities
 
 */ 
-const myIp = "https://asn-api.onrender.com"
+//const myIp = "https://asn-api.onrender.com"
 
-//const myIp = "http://192.168.191.221:10000"
+const myIp = "http://192.168.67.221:10000"
 
 const requirements = document.querySelectorAll(".requirements")
 const specialChars = "!@#$%^&*()-_=+[{]}\\| :'\",<.>/?`~"
@@ -840,11 +840,17 @@ const util = {
         switch (eModal){
 
             case "claimsModal":
+
                 //for upload pdf
                 const frmclaimsupload = document.getElementById('claimsuploadForm')
                 frmclaimsupload.addEventListener("submit", e => {
                     const formx = e.target;
 
+
+                    xmsg = "<div><i class='fa fa-spinner fa-pulse' ></i>  Uploading CSV to Database, Please Do Not Close!!!</div>"
+                util.alertMsg( xmsg,'danger','claimsPlaceHolder')
+                util.speak('UPLOADING TO DATABASE, PLEASE DO NOT CLOSE THIS WINDOW!')
+                
                     fetch(`${myIp}/claims`, {
                         method: 'POST',
                         body: new FormData(formx),
@@ -856,6 +862,7 @@ const util = {
                             if(data.status){
                                 console.log ('CLAIMS DONE!', data )
                                 util.speak(data.message)
+                                document.getElementById('claimsPlaceHolder').innerHTML=""
                                 util.hideModal('claimsModal',2000)//then close form    
                             }
 
