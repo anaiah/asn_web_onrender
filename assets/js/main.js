@@ -1,1 +1,1240 @@
-const _0x5179ba=_0x5a19;function _0x5a19(_0x2285b7,_0x1a93f6){const _0x5dfef5=_0x4ba1();return _0x5a19=function(_0x27242e,_0x3a4b9c){_0x27242e=_0x27242e-(0x18a5*-0x1+0x1bf5*-0x1+-0x1*-0x35cb);let _0x2a084b=_0x5dfef5[_0x27242e];return _0x2a084b;},_0x5a19(_0x2285b7,_0x1a93f6);}function _0x4ba1(){const _0x4106a8=['Item\x20Succe','==running\x20','kHqPM','form-contr','uOvqd','SHOPCART==','KnVdk','parse','ryBnP','mFXvL','sale_price','ect\x20--','scrollTo','newempModa','INPUT,\x20THE','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','t\x20text-whi','focus','src','==eo\x20site\x20','\x20Price\x20:\x20&','NJFmm','vCTOq','\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20','bKrWi','ART\x20EMPTY!','fUyoA','hub','getVoices','o>\x0a\x20\x20\x20\x20\x20\x20\x20','ySQNf','data','gNCEg','iTkqB','WITH\x20BATCH','value','addCommas','SHOPPING\x20C','2EmDHQH','selected','YQcyo','JWUGi','mall-save-','=\x27text-wra','btn','BNjAq','eTxyD','/3/','1915CLaOBf','ript:void(','/assets/im','blob','ovnDw','s\x20done!','tyle=\x22colo','click','gxLab','calhost:10','preventDef','***\x20showIm','OoRbn','appendChil','getTopRide','\x20CAN\x20SEARC','log','/gethub','()===\x20','ctURL',';<span\x20id=','\x20\x20\x20\x20</div>','lass=eqptn','yRiNb','createElem','WCEED','fqZcW','Error:,\x20','stener','#searchFor','oGRVv','indexOf','fname','stopPropag','wVEvW','#newempFor','ight,\x20#00b','\x20\x20\x20<div\x20cl','FtqzD','width','xoFEb','JaXAi','add','present!,.','eqpt_descr','length','client_po','ners','ber','=\x22bg-prima','\x20\x20\x20\x20\x20\x20','217cEnUtd','\x20<div\x20clas','shopCart','lid','MIrwC','id=\x22claim_','te\x22></i></','pdf_iframe','Toast','round','business_n','\x20</a>','gjBQF','tvGUf','ll()===','\x20\x20\x20\x20\x20\x20\x20</d','THIS\x20ITEM\x20','\x20\x20\x20\x20\x20<span','Error\x20occu','TQZQW','-8\x20d-flex\x20','FEmQh','YkgoB','\x20class=\x27eq','\x20TOTAL\x20:\x20&','<i\x20id=\x27i-n','size','pitch','ECuiC','o\x20nga\x20','FnZHt','fa-file-al','mall_name','init','English','yiiAR','getAll','toUpperCas','DeTTB','mall-label','\x20\x20\x20</div>\x0a','engineer','qEKKX','f_voice','EQFFg','/fetchinit','KlerR','getTopHub','WpdtK','ERROR!\x20ATD','zDsKn','fdLWK','XrNoc','hide.bs.mo','/claims','zGrda','filter_num','EzEFK','YGZPn','hide','UciYY','ame','claimsuplo','TRklX','DawrB','find','innerHTML','lang','abWGf','container-','showcart','is-invalid','157008DMRPUc','BRFae','\x20IN\x20CART!','lass=\x22row\x22','RBfxV','status_cou','lass=\x22fas\x20','linear-gra','/checkpdf/','cjmmN','\x20\x20\x20\x20\x20&nbsp','OWNLOADED\x20','grp_id','Searching.','f_pic','OMVTx','pwOUX','p-notif','gLTlV','rwqmf','PSAGQ','error','nnsum','\x20\x20\x20\x20<div>\x0a','vQLXl','href','width:\x2020r','msgModal','type','POZSN','number==\x20','commentsMo','redy\x20to\x20se','speaking','qWTox','spwdI','/postimage','uploaded_f','\x20\x20</div>\x0a\x20','dataforTag','000/getmal','removeOpti','ntaztic.co','classList','img-profil','rider','body','GxYSU','\x20OR\x20BY\x20EMP','KOnyF','s=\x22me-3\x22>\x0a','<br>\x0a\x20\x20\x20\x20\x20','text','IRUiH','fKkxL','categoryTy','addEventLi','lLRUV','i>\x0a\x20\x20\x20\x20\x20\x20\x20','connect','0|1|3|4|2','getCookie','====TOTAL\x20','HECK\x20YOUR\x20','nFVJz','imageModal','le\x20fw-semi','rate','fileExists','mall_descr','duyjT','design','\x20\x20\x20\x20\x20\x20\x20\x20</','show','qty','cart-conte','forEach','RsVpv','ccurred:\x20','0)\x22>\x0a\x20\x20\x20\x20\x20','</div>\x0a\x20\x20\x20','aeAHW','YEE\x20NUMBER','div>\x0a\x20\x20\x20\x20\x20','SPEAK()','ZmxEA','URL','batch','rcle\x22><i\x20c','ASN_','ent','bell-badge','WIvft','IYrFT','CCcJm','ons','/getrecord','re\x20this\x20is','claim_sear','dSubj','====getMsg','PkNul','price','main.js\x20SP','pocartModa','KgGDX','qZGGV','both\x20blank','DiNxz','ERROR,\x20FIL','IS\x20ALREADY','pulse\x27\x20></','\x20\x20\x20\x20\x20\x20\x20<a\x20','PMQBh','for\x20Downlo','\x20</span>\x0a\x20','json','nVPpr','ngLKM','GRIEp','ypePlaceHo','innerWidth','ile','modalListe','\x20d-flex\x20al','E\x20NOT\x20FOUN','lidation','HNUNR','gcHkj','p.filterMa','total','svGmD','pXuxn','KjmDj','rred...','wmdOM','ody\x20p-4\x22>\x0a','qYGXX','className','3d)',';Search\x20Re','3086121AdXWYL','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20','ef=\x22javasc','></i>&nbsp','ss=\x22col-lg','reload','iv>\x0a\x20\x20\x20\x20\x20\x20','loadFormVa','hCTol','Nlmka','catch','=\x22ti\x20ti-li','Modal','sale','action','/deletepdf','Speaking\x20i','HRCYq','\x20Qty.\x20','yPqsr','socket','llrIB','pinner\x20fa-','options','setAttribu','\x20</div>\x0a\x20\x20','iyedG','remove','showToast','ZaxIT','\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20','status','blur','\x20<h5\x20class','DiVDk','modalShow','GETVOICE()','\x20\x20\x20\x20<div\x20c','Bnawd','speaks','danger','BFxlc','LOYEE\x20NAME','ojects','UuCuz','osndp.popu','xmsg4','all()\x20osnd','pVNZP','File\x20exist','alertMsg','unique_id','qCJjm','px;\x22\x20class','age()\x20****','ry\x20icon-ci','ss=\x22card-b','than\x201mb','uHEhu','iption','equipment_','ded!','s=\x27fa\x20fa-s','showmallca','bOBDe','!</div>','\x20\x20\x20\x20\x20\x20\x20\x20\x20','gDwZH','scrollsTo','speak','getElement','result','deletepdf','15312600gbkHPk','em;\x27>PLS\x20C','ign-items-','ation','HRagQ','WfyhE','ruGiK','=\x22card-tit','JiWME','LjGvE','onend','atPTQ','lVmpt','Error:,dit','RyAzj','G\x20PDF\x20PLEA','sIGeO','frfQZ','/createpdf','w-100\x22>\x0a\x20\x20','kAtdN','arch','en-US','DOWNLOADIN','iRHNf','/blank','Node','every','late()\x20','()===','qauEw','===filterM','dmovb','/getclaims','\x20for\x20','getClaims(','SEaZF','ieEgR','userName=','then','class=\x22dro','HPJZF','center\x22\x20hr','p\x27\x20style=\x27','m/osndp/','le/','rent-badge','--\x20Pls\x20Sel','download','current_pr','dal','lNdHC','ages/profi','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','serial','VjeDa','09b,\x20#96c9','atoGX','caFFX','Error:','MfVIl','jmNUj','dient(to\x20r','cJpmE','Select\x20','file\x20less\x20','stringify','otif\x27\x20clas','LiLFR','name','equipmentT','fluid','ol\x20is-inva','\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20','Are\x20you\x20su','FskcG','search_cla','uploadForm','FSQAf','item','gNwtV','/blank/','uinee','\x20select\x20a\x20','==filterBy','Twywp','files','3970665GasFXH','hfjxK','sult</h5>\x0a','sale-badge','cAxPF','lass=\x22mb-4','ass=\x22card\x20','H\x20BY\x20EMPLO','OPkkT','createText','ById','pdown-item','tegory()','\x20\x20\x20\x20\x20<div\x20','st-search\x22','File\x20too\x20B','AQRHo','EutPk','bKkNk','An\x20error\x20o','fMKFT','RE\x27S\x20ERROR','\x20ALREADY\x20D','nt-size:25','s()===','adForm','HMyot','kTorH','VsUOc','Oepwg','PDF\x20Ready\x20','INPUT,\x20YOU','getMall','2016onlRZd','QwAfP','mUzir','aUZpi','split','center','not\x20exist','serial_ima','/getrider','main.js\x20bi','blindspot','TWCuI','EAK()','static','revokeObje','kQqjP','<br></span','jectOwner/','HkCWB','..ignore','IEGki','000/getPro','https://va','ault','#8369;','zRovH','ptmain\x27\x20>\x0a','\x27s-notif\x27>','toFixed','voice','eyPiV','SlksS','ydvqQ','SE\x20WAIT!','ist/','\x20\x20\x20<span\x20c','000/fileex','r:green;fo','PIEAD','bold\x22><i\x20s','ig,\x20please','\x20\x20<div\x20cla','ypeModal','3962604DihTTY','kmvmz','https://lo','ssfully\x20Ad','ms-3','zSfSC','.fileExist','gGaFg','ad!!!','cancel','oxdtU','claimsModa','AmKkH','option','populate','=====osndp','disabled','WKpLF','.pdf','HzCPF','<div\x20class','createpdf','950153WtjZdP','</span>','search\x22>\x0a\x20','tEKRo','wzlFY','YmEDW','ngo!-->','full_name','push','NdmXR','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20','filter_nam','lder','File\x20does\x20','createObje'];_0x4ba1=function(){return _0x4106a8;};return _0x4ba1();}(function(_0x199aa9,_0x584430){const _0x5bd0d7=_0x5a19,_0x28f533=_0x199aa9();while(!![]){try{const _0x19943e=-parseInt(_0x5bd0d7(0x270))/(-0x2*-0x99+0xcf7+0x714*-0x2)+parseInt(_0x5bd0d7(0x2a5))/(-0x2*0x703+0xf50+-0x29*0x8)*(-parseInt(_0x5bd0d7(0x16e))/(-0x6*0x321+-0x1325+0x25ee))+parseInt(_0x5bd0d7(0x25a))/(-0xe*-0x10c+-0xaef*0x1+-0xd*0x49)+parseInt(_0x5bd0d7(0x2af))/(0xf13+-0x6*-0x337+0x1*-0x2258)*(-parseInt(_0x5bd0d7(0x22f))/(-0xc1*-0xd+0x20bc+-0x2a83))+-parseInt(_0x5bd0d7(0x2e2))/(-0x26fe+0x1*0x412+-0x17*-0x185)*(-parseInt(_0x5bd0d7(0x32a))/(-0x1*-0x427+-0x1cc+-0x253))+-parseInt(_0x5bd0d7(0x20e))/(-0x5*-0xb9+-0x1*0x12c1+0xf2d)+parseInt(_0x5bd0d7(0x1b7))/(-0x236b+-0x2057*-0x1+0x39*0xe);if(_0x19943e===_0x584430)break;else _0x28f533['push'](_0x28f533['shift']());}catch(_0x397987){_0x28f533['push'](_0x28f533['shift']());}}}(_0x4ba1,-0xe05fe+-0xb179d+0xc3d*0x2c7));const asn={'offset':0x0,'shopCart':[],'socket':null,'getVoice':async()=>{const _0x5cc688=_0x5a19,_0x11f44b={'EutPk':function(_0x55ab35,_0x22842e){return _0x55ab35>_0x22842e;},'sIGeO':_0x5cc688(0x304),'JWUGi':_0x5cc688(0x238)+_0x5cc688(0x276),'gjBQF':_0x5cc688(0x192)};voices=synth[_0x5cc688(0x29b)](),console[_0x5cc688(0x2bf)](_0x11f44b[_0x5cc688(0x2ee)]),voices[_0x5cc688(0x1d2)](_0x18bd1e=>{const _0x261e11=_0x5cc688;_0x11f44b[_0x261e11(0x21f)](_0x18bd1e[_0x261e11(0x1fc)][_0x261e11(0x2ce)](_0x11f44b[_0x261e11(0x1c7)]),-(0x6d*-0x1a+-0x3b*0x4+-0x53*-0x25))&&console[_0x261e11(0x2bf)](_0x11f44b[_0x261e11(0x2a8)],_0x18bd1e[_0x261e11(0x1fc)],_0x18bd1e[_0x261e11(0x325)]);});},'speak':_0x12f43b=>{const _0x5cd815=_0x5a19,_0x3e6df8={'llrIB':_0x5cd815(0x17e)+_0x5cd815(0x2b4),'WKpLF':_0x5cd815(0x2f4)+_0x5cd815(0x167),'nFVJz':function(_0x2413a0,_0x5b933a){return _0x2413a0>_0x5b933a;},'gDwZH':_0x5cd815(0x304),'TWCuI':_0x5cd815(0x135)};console[_0x5cd815(0x2bf)](_0x3e6df8[_0x5cd815(0x23a)]);if(synth[_0x5cd815(0x34b)])return;const _0x2c10fc=new SpeechSynthesisUtterance(_0x12f43b);_0x2c10fc[_0x5cd815(0x1c1)]=_0x45accc=>{const _0x239e64=_0x5cd815;console[_0x239e64(0x2bf)](_0x3e6df8[_0x239e64(0x183)]);},_0x2c10fc[_0x5cd815(0x33f)]=_0x377de8=>{const _0x5bdc1d=_0x5cd815;console[_0x5bdc1d(0x33f)](_0x3e6df8[_0x5bdc1d(0x26b)]);},voices[_0x5cd815(0x376)](_0x2b229a=>{const _0x53dd95=_0x5cd815;_0x3e6df8[_0x53dd95(0x36a)](_0x2b229a[_0x53dd95(0x1fc)][_0x53dd95(0x2ce)](_0x3e6df8[_0x53dd95(0x1b1)]),-(-0x10*0x34+0xbd4+0x5*-0x1b7))&&(_0x2c10fc[_0x53dd95(0x24c)]=_0x2b229a);}),_0x2c10fc[_0x5cd815(0x36d)]=0x2*0xf9+-0x1*-0xa2d+-0xc1e*0x1,_0x2c10fc[_0x5cd815(0x2fd)]=-0x12ab+-0x2f1+0x159d,synth[_0x5cd815(0x1b3)](_0x2c10fc),synth[_0x5cd815(0x263)]();},'addtoCart':async(_0x280da1,_0x165bf0,_0x5bf0a5)=>{const _0x4a3cc3=_0x5a19,_0x4cc012={'WIvft':_0x4a3cc3(0x13c),'wmdOM':function(_0x584a0a,_0x1bf59a){return _0x584a0a>_0x1bf59a;},'atPTQ':function(_0x146ed9,_0x36c43e){return _0x146ed9===_0x36c43e;},'cAxPF':function(_0x288590,_0x2517d0){return _0x288590*_0x2517d0;},'qEKKX':_0x4a3cc3(0x27f)+_0x4a3cc3(0x25d)+_0x4a3cc3(0x1ab),'eTxyD':_0x4a3cc3(0x2da)+_0x4a3cc3(0x242),'jmNUj':_0x4a3cc3(0x2f2)+_0x4a3cc3(0x14f)+_0x4a3cc3(0x32c),'lNdHC':_0x4a3cc3(0x368)+_0x4a3cc3(0x284)+'='};let _0x4efca3=document[_0x4a3cc3(0x1b4)+_0x4a3cc3(0x218)](_0x280da1),_0x1f2275=osndp[_0x4a3cc3(0x351)][_0x5bf0a5][_0x4a3cc3(0x1aa)+_0x4a3cc3(0x2a2)];const _0x182f70=document[_0x4a3cc3(0x1b4)+_0x4a3cc3(0x218)](_0x4cc012[_0x4a3cc3(0x13d)]);if(_0x4cc012[_0x4a3cc3(0x168)](osndp[_0x4a3cc3(0x2e4)][_0x4a3cc3(0x2dc)],-0x2605+-0x1bcf+0x41d4)){let _0x25347c=osndp[_0x4a3cc3(0x2e4)][_0x4a3cc3(0x323)](_0xd9d948=>_0xd9d948['id']==_0x165bf0);if(_0x4cc012[_0x4a3cc3(0x1c2)](_0x25347c,undefined))osndp[_0x4a3cc3(0x2e4)][_0x4a3cc3(0x278)]({'id':_0x165bf0,'data':_0x1f2275,'qty':_0x4efca3[_0x4a3cc3(0x2a2)],'price':osndp[_0x4a3cc3(0x351)][_0x5bf0a5][_0x4a3cc3(0x147)],'sale':osndp[_0x4a3cc3(0x351)][_0x5bf0a5][_0x4a3cc3(0x289)],'total':_0x4cc012[_0x4a3cc3(0x212)](_0x4efca3[_0x4a3cc3(0x2a2)],osndp[_0x4a3cc3(0x351)][_0x5bf0a5][_0x4a3cc3(0x289)])}),_0x182f70[_0x4a3cc3(0x324)]=osndp[_0x4a3cc3(0x2e4)][_0x4a3cc3(0x2dc)],util[_0x4a3cc3(0x2ea)](_0x4cc012[_0x4a3cc3(0x30c)],-0x18e2+-0x4*-0x7ba+-0x1ca*-0x1);else return console[_0x4a3cc3(0x2bf)](_0x4cc012[_0x4a3cc3(0x2ad)]),util[_0x4a3cc3(0x2ea)](_0x4cc012[_0x4a3cc3(0x1f4)],0x2*-0x629+0x1*-0xe81+0x22a3),!![];}else osndp[_0x4a3cc3(0x2e4)][_0x4a3cc3(0x278)]({'id':_0x165bf0,'data':_0x1f2275,'qty':_0x4efca3[_0x4a3cc3(0x2a2)],'price':osndp[_0x4a3cc3(0x351)][_0x5bf0a5][_0x4a3cc3(0x147)],'sale':osndp[_0x4a3cc3(0x351)][_0x5bf0a5][_0x4a3cc3(0x289)],'total':_0x4cc012[_0x4a3cc3(0x212)](_0x4efca3[_0x4a3cc3(0x2a2)],osndp[_0x4a3cc3(0x351)][_0x5bf0a5][_0x4a3cc3(0x289)])}),_0x182f70[_0x4a3cc3(0x324)]=osndp[_0x4a3cc3(0x2e4)][_0x4a3cc3(0x2dc)],util[_0x4a3cc3(0x2ea)](_0x4cc012[_0x4a3cc3(0x30c)],0x1*0x2401+-0x25ce+0x99d);console[_0x4a3cc3(0x2bf)](_0x4cc012[_0x4a3cc3(0x1ea)],osndp[_0x4a3cc3(0x2e4)]);},'showCartModal':()=>{const _0x401ad7=_0x5a19,_0x1aabfa={'OPkkT':_0x401ad7(0x23c),'EQFFg':_0x401ad7(0x149)+'l','nnsum':function(_0x5eb5bf,_0x2ab884){return _0x5eb5bf==_0x2ab884;},'PMQBh':_0x401ad7(0x2a4)+_0x401ad7(0x298)},_0x2eedb2={'keyboard':![],'backdrop':_0x1aabfa[_0x401ad7(0x216)]};let _0x203b0a=new bootstrap[(_0x401ad7(0x17a))](document[_0x401ad7(0x1b4)+_0x401ad7(0x218)](_0x1aabfa[_0x401ad7(0x30e)]),_0x2eedb2),_0x495aa5=document[_0x401ad7(0x1b4)+_0x401ad7(0x218)](_0x1aabfa[_0x401ad7(0x30e)]);if(_0x1aabfa[_0x401ad7(0x340)](osndp[_0x401ad7(0x2e4)][_0x401ad7(0x2dc)],0x13ea+-0x842+-0xba8*0x1))return util[_0x401ad7(0x2ea)](_0x1aabfa[_0x401ad7(0x152)],-0x13e1*-0x1+-0x21b0+-0x1*-0x159f),e[_0x401ad7(0x2b9)+_0x401ad7(0x246)](),e[_0x401ad7(0x2d0)+_0x401ad7(0x1ba)](),![];else osndp[_0x401ad7(0x328)](),_0x203b0a[_0x401ad7(0x373)]();},'showcart':()=>{const _0x3aa187=_0x5a19,_0xa30342={'fMKFT':function(_0x30f534,_0x39d34c){return _0x30f534>_0x39d34c;},'gNwtV':_0x3aa187(0x375)+'nt','YGZPn':function(_0x2de46b,_0x3b6b2b){return _0x2de46b(_0x3b6b2b);}};if(_0xa30342[_0x3aa187(0x222)](osndp[_0x3aa187(0x2e4)][_0x3aa187(0x2dc)],0x1dc*0x11+-0x25*-0xcb+-0x7*0x8b5)){document[_0x3aa187(0x1b4)+_0x3aa187(0x218)](_0xa30342[_0x3aa187(0x207)])[_0x3aa187(0x324)]='';for(let _0xcb3712 in osndp[_0x3aa187(0x2e4)]){const _0x28a915=JSON[_0x3aa187(0x286)](osndp[_0x3aa187(0x2e4)][_0xcb3712][_0x3aa187(0x29e)]);document[_0x3aa187(0x1b4)+_0x3aa187(0x218)](_0xa30342[_0x3aa187(0x207)])[_0x3aa187(0x324)]+=_0x3aa187(0x16f)+_0x3aa187(0x151)+_0x3aa187(0x1df)+_0x3aa187(0x219)+_0x3aa187(0x15d)+_0x3aa187(0x1b9)+_0x3aa187(0x1e1)+_0x3aa187(0x170)+_0x3aa187(0x2b0)+_0x3aa187(0x379)+_0x3aa187(0x28e)+_0x3aa187(0x2e3)+_0x3aa187(0x35c)+_0x3aa187(0x28e)+_0x3aa187(0x28e)+_0x3aa187(0x26e)+_0x3aa187(0x2e0)+_0x3aa187(0x1a5)+_0x3aa187(0x139)+_0x3aa187(0x330)+_0x3aa187(0x301)+_0x3aa187(0x28f)+_0x3aa187(0x2e8)+_0x3aa187(0x134)+_0x3aa187(0x28e)+_0x3aa187(0x187)+_0x3aa187(0x28e)+_0x3aa187(0x341)+_0x3aa187(0x28e)+_0x3aa187(0x18c)+_0x3aa187(0x28e)+_0x3aa187(0x252)+_0x3aa187(0x2c5)+_0x3aa187(0x29c)+_0x3aa187(0x1b0)+_0x28a915[_0x3aa187(0x1aa)+_0x3aa187(0x346)][_0x3aa187(0x307)+'e']()+(_0x3aa187(0x35d)+_0x3aa187(0x28e)+'\x20')+_0x28a915[_0x3aa187(0x2db)+_0x3aa187(0x1a9)]+(_0x3aa187(0x35d)+_0x3aa187(0x28e)+_0x3aa187(0x154)+_0x3aa187(0x28e)+_0x3aa187(0x2f3)+_0x3aa187(0x2f9)+_0x3aa187(0x249)+_0x3aa187(0x28e)+_0x3aa187(0x2e1))+_0x28a915[_0x3aa187(0x1ed)]+(_0x3aa187(0x35d)+_0x3aa187(0x28e)+_0x3aa187(0x180))+osndp[_0x3aa187(0x2e4)][_0xcb3712][_0x3aa187(0x374)]+(_0x3aa187(0x35d)+_0x3aa187(0x28e)+_0x3aa187(0x293)+_0x3aa187(0x247))+util[_0x3aa187(0x2a3)](_0xa30342[_0x3aa187(0x31c)](parseFloat,osndp[_0x3aa187(0x2e4)][_0xcb3712][_0x3aa187(0x17b)])[_0x3aa187(0x24b)](-0xd*-0x2aa+-0x9ea*0x2+-0x766*0x2))+(_0x3aa187(0x35d)+_0x3aa187(0x28e)+_0x3aa187(0x2fa)+_0x3aa187(0x247))+util[_0x3aa187(0x2a3)](_0xa30342[_0x3aa187(0x31c)](parseFloat,osndp[_0x3aa187(0x2e4)][_0xcb3712][_0x3aa187(0x163)])[_0x3aa187(0x24b)](0xf09+0x122b*0x2+-0x9*0x5b5))+(_0x3aa187(0x23f)+_0x3aa187(0x1ec)+_0x3aa187(0x372)+_0x3aa187(0x134)+_0x3aa187(0x28e)+_0x3aa187(0x2ed));}}},'getimagename':()=>{const _0x4cd80b=_0x5a19,_0x238411={'wzlFY':_0x4cd80b(0x236)+'ge','UciYY':_0x4cd80b(0x2dd)};document[_0x4cd80b(0x1b4)+_0x4cd80b(0x218)](_0x238411[_0x4cd80b(0x274)])[_0x4cd80b(0x2a2)]=document[_0x4cd80b(0x1b4)+_0x4cd80b(0x218)](_0x238411[_0x4cd80b(0x31e)])[_0x4cd80b(0x2a2)];},'showPdf':async _0x44003f=>{const _0x4f52fd=_0x5a19,_0x3439a5={'Twywp':_0x4f52fd(0x2ba)+_0x4f52fd(0x1a4)};console[_0x4f52fd(0x2bf)](_0x3439a5[_0x4f52fd(0x20c)]),console[_0x4f52fd(0x2bf)](_0x44003f),osndp[_0x4f52fd(0x36e)](_0x44003f);},'showIssue':async _0x252665=>{const _0x1cfbab=_0x5a19,_0x3a0358={'fdLWK':_0x1cfbab(0x292)+_0x1cfbab(0x348),'HMyot':_0x1cfbab(0x349)+_0x1cfbab(0x1e9)};console[_0x1cfbab(0x2bf)](_0x3a0358[_0x1cfbab(0x315)],_0x252665),util[_0x1cfbab(0x191)](_0x3a0358[_0x1cfbab(0x228)]);},'fileExists':async _0x3fd700=>{const _0x4b9775=_0x5a19,_0x3d936f={'AmKkH':_0x4b9775(0x19f)+'s','spwdI':_0x4b9775(0x27d)+_0x4b9775(0x235),'ngLKM':function(_0x5e89a6,_0x219db5){return _0x5e89a6(_0x219db5);},'HNUNR':_0x4b9775(0x14e)+_0x4b9775(0x15e)+'D!','kTorH':_0x4b9775(0x221)+_0x4b9775(0x378),'wVEvW':_0x4b9775(0x23c),'ryBnP':_0x4b9775(0x36b),'POZSN':_0x4b9775(0x2e9),'lVmpt':_0x4b9775(0x269)+_0x4b9775(0x260)+_0x4b9775(0x226),'WCEED':_0x4b9775(0x317)+_0x4b9775(0x1e9)},_0x24adce={'keyboard':![],'backdrop':_0x3d936f[_0x4b9775(0x2d1)]},_0x40f84c=new bootstrap[(_0x4b9775(0x17a))](document[_0x4b9775(0x1b4)+_0x4b9775(0x218)](_0x3d936f[_0x4b9775(0x287)]),_0x24adce),_0x5ea2df=document[_0x4b9775(0x1b4)+_0x4b9775(0x218)](_0x3d936f[_0x4b9775(0x287)]);let _0x50a758=document[_0x4b9775(0x1b4)+_0x4b9775(0x218)](_0x3d936f[_0x4b9775(0x347)]);console[_0x4b9775(0x2bf)](_0x3d936f[_0x4b9775(0x1c3)],_0x3fd700),await _0x3d936f[_0x4b9775(0x157)](fetch,_0x4b9775(0x25c)+_0x4b9775(0x2b8)+_0x4b9775(0x253)+_0x4b9775(0x251)+_0x3fd700)[_0x4b9775(0x1de)](_0x18cdd3=>{const _0x2ecaed=_0x4b9775;return _0x18cdd3[_0x2ecaed(0x155)]();})[_0x4b9775(0x1de)](_0x3b85da=>{const _0x35c53f=_0x4b9775;_0x3b85da[_0x35c53f(0x18d)]?(console[_0x35c53f(0x2bf)](_0x3d936f[_0x35c53f(0x266)]),_0x50a758[_0x35c53f(0x291)]=_0x35c53f(0x245)+_0x35c53f(0x354)+_0x35c53f(0x1e3)+_0x3fd700,_0x40f84c[_0x35c53f(0x373)](),_0x50a758[_0x35c53f(0x2d6)]=window[_0x35c53f(0x15a)]):(console[_0x35c53f(0x2bf)](_0x3d936f[_0x35c53f(0x34d)]),_0x3d936f[_0x35c53f(0x157)](alert,_0x3d936f[_0x35c53f(0x160)]),_0x40f84c[_0x35c53f(0x31d)](),_0x50a758[_0x35c53f(0x291)]='');})[_0x4b9775(0x178)](_0x7b3988=>{const _0xbd4815=_0x4b9775;console[_0xbd4815(0x2bf)](_0x3d936f[_0xbd4815(0x229)],_0x7b3988);}),_0x5ea2df[_0x4b9775(0x362)+_0x4b9775(0x2cb)](_0x3d936f[_0x4b9775(0x2c8)],function(_0x321711){const _0x120e39=_0x4b9775;_0x50a758[_0x120e39(0x291)]+='';});},'fetchBadgeData':async()=>{const _0x2ac833=_0x5a19,_0x6a69dc={'yiiAR':_0x2ac833(0x13c),'pwOUX':_0x2ac833(0x1e5),'LiLFR':_0x2ac833(0x211),'BRFae':_0x2ac833(0x1f2),'OMVTx':function(_0x314f4d,_0x16b6ba){return _0x314f4d(_0x16b6ba);}};_0x6a69dc[_0x2ac833(0x339)](fetch,_0x2ac833(0x30f)+_0x2ac833(0x29e))[_0x2ac833(0x1de)](_0x476380=>{const _0xa21b22=_0x2ac833;return _0x476380[_0xa21b22(0x155)]();})[_0x2ac833(0x1de)](_0x2948fd=>{const _0x2a0564=_0x2ac833;console[_0x2a0564(0x2bf)](_0x2948fd);const _0x5c109a=document[_0x2a0564(0x1b4)+_0x2a0564(0x218)](_0x6a69dc[_0x2a0564(0x305)]);_0x5c109a[_0x2a0564(0x324)]=_0x2948fd[_0x2a0564(0x1b5)][0x4*0x2cd+0x348+0x6d*-0x22][_0x2a0564(0x32f)+'nt'];const _0x57f00f=document[_0x2a0564(0x1b4)+_0x2a0564(0x218)](_0x6a69dc[_0x2a0564(0x33a)]);_0x57f00f[_0x2a0564(0x324)]=_0x2948fd[_0x2a0564(0x1b5)][0x4*0x126+0x6bc+0x1*-0xb54][_0x2a0564(0x32f)+'nt'];const _0x3b1dac=document[_0x2a0564(0x1b4)+_0x2a0564(0x218)](_0x6a69dc[_0x2a0564(0x1fb)]);_0x3b1dac[_0x2a0564(0x324)]=_0x2948fd[_0x2a0564(0x1b5)][0x18f7+-0x1126+-0xfa*0x8][_0x2a0564(0x32f)+'nt'];})[_0x2ac833(0x178)](_0x56fd0b=>{const _0x292fde=_0x2ac833;util[_0x292fde(0x2ea)](_0x292fde(0x1c4)+_0x292fde(0x2ff)+_0x56fd0b,0xcc6+0x16a0*-0x1+0x6*0x24b),console[_0x292fde(0x33f)](_0x6a69dc[_0x292fde(0x32b)],_0x56fd0b);});},'showMallCategory':(_0x1810ed,_0x22deb8)=>{const _0x3050a0=_0x5a19,_0x594d25={'PkNul':_0x3050a0(0x1fd)+_0x3050a0(0x159)+_0x3050a0(0x27c),'zSfSC':_0x3050a0(0x36f)+_0x3050a0(0x1a9),'VsUOc':function(_0x546b42,_0x3855cd,_0x2b8d38){return _0x546b42(_0x3855cd,_0x2b8d38);},'vQLXl':_0x3050a0(0x1ad)+_0x3050a0(0x21a),'atoGX':function(_0x4a49d2,_0x2c5e43){return _0x4a49d2==_0x2c5e43;},'SlksS':_0x3050a0(0x23c),'fqZcW':_0x3050a0(0x1fd)+_0x3050a0(0x259),'tEKRo':_0x3050a0(0x317)+_0x3050a0(0x1e9),'GxYSU':_0x3050a0(0x309),'YmEDW':function(_0x33ae3a,_0x2e1a56){return _0x33ae3a+_0x2e1a56;},'BNjAq':_0x3050a0(0x1f7),'mFXvL':_0x3050a0(0x361)+'pe'};console[_0x3050a0(0x2bf)](_0x594d25[_0x3050a0(0x342)],_0x22deb8);if(_0x594d25[_0x3050a0(0x1f0)](_0x1810ed,''))return![];const _0x1bc524={'keyboard':![],'backdrop':_0x594d25[_0x3050a0(0x24e)]},_0x341bb6=new bootstrap[(_0x3050a0(0x17a))](document[_0x3050a0(0x1b4)+_0x3050a0(0x218)](_0x594d25[_0x3050a0(0x2c9)]),_0x1bc524);let _0x2e142e=document[_0x3050a0(0x1b4)+_0x3050a0(0x218)](_0x594d25[_0x3050a0(0x2c9)]);_0x2e142e[_0x3050a0(0x362)+_0x3050a0(0x2cb)](_0x594d25[_0x3050a0(0x273)],function(_0x3d1833){const _0x5bbf14=_0x3050a0;let _0x158333=document[_0x5bbf14(0x1b4)+_0x5bbf14(0x218)](_0x594d25[_0x5bbf14(0x146)]);_0x158333[_0x5bbf14(0x324)]='',document[_0x5bbf14(0x1b4)+_0x5bbf14(0x218)](_0x594d25[_0x5bbf14(0x25f)])[_0x5bbf14(0x290)](),document[_0x5bbf14(0x1b4)+_0x5bbf14(0x218)](_0x594d25[_0x5bbf14(0x25f)])[_0x5bbf14(0x18e)](),_0x594d25[_0x5bbf14(0x22a)](setTimeout,()=>document[_0x5bbf14(0x1b4)+_0x5bbf14(0x218)](_0x5bbf14(0x2ec)+_0x5bbf14(0x31f))[_0x5bbf14(0x290)](),-0xb80+0x8c+0xaf4*0x1);},![]),document[_0x3050a0(0x1b4)+_0x3050a0(0x218)](_0x594d25[_0x3050a0(0x359)])[_0x3050a0(0x324)]=_0x594d25[_0x3050a0(0x275)](_0x594d25[_0x3050a0(0x2ac)],_0x22deb8);const _0x293c62=document[_0x3050a0(0x1b4)+_0x3050a0(0x218)](_0x594d25[_0x3050a0(0x288)]);_0x293c62[_0x3050a0(0x324)]='',osndp[_0x3050a0(0x22e)](_0x3050a0(0x25c)+_0x3050a0(0x2b8)+_0x3050a0(0x352)+'l/'+_0x1810ed,_0x293c62),_0x341bb6[_0x3050a0(0x373)]();},'populate':async(_0xcd48b7,_0x37403b)=>{const _0x14d447=_0x5a19,_0x45fb86={'FnZHt':_0x14d447(0x268),'lLRUV':_0x14d447(0x267),'GRIEp':_0x14d447(0x2a2),'gxLab':_0x14d447(0x2a6),'kmvmz':_0x14d447(0x1e6)+_0x14d447(0x28a),'TRklX':_0x14d447(0x221)+_0x14d447(0x378),'frfQZ':_0x14d447(0x19b)+_0x14d447(0x1d3),'PIEAD':_0x14d447(0x371),'FEmQh':_0x14d447(0x30b),'HRagQ':function(_0x42242b,_0x21089c){return _0x42242b(_0x21089c);}};console[_0x14d447(0x2bf)](_0x45fb86[_0x14d447(0x1c8)]),osndp[_0x14d447(0x353)+_0x14d447(0x140)](_0xcd48b7);let _0x35b01b;switch(_0x37403b){case _0x45fb86[_0x14d447(0x255)]:_0x35b01b=_0x14d447(0x25c)+_0x14d447(0x2b8)+_0x14d447(0x244)+_0x14d447(0x240)+_0x14d447(0x371);break;case _0x45fb86[_0x14d447(0x2f7)]:_0x35b01b=_0x14d447(0x25c)+_0x14d447(0x2b8)+_0x14d447(0x244)+_0x14d447(0x240)+_0x14d447(0x30b);break;}await _0x45fb86[_0x14d447(0x1bb)](fetch,_0x35b01b)[_0x14d447(0x1de)](_0x385e21=>{const _0xea6be2=_0x14d447;return _0x385e21[_0xea6be2(0x155)]();})[_0x14d447(0x1de)](_0x5eaf30=>{const _0x39c813=_0x14d447;console[_0x39c813(0x2bf)](_0x45fb86[_0x39c813(0x300)],_0x5eaf30);let _0x523f07=document[_0x39c813(0x2c7)+_0x39c813(0x13b)](_0x45fb86[_0x39c813(0x363)]);_0x523f07[_0x39c813(0x186)+'te'](_0x45fb86[_0x39c813(0x158)],''),_0x523f07[_0x39c813(0x186)+'te'](_0x45fb86[_0x39c813(0x2b7)],_0x45fb86[_0x39c813(0x2b7)]);let _0x2e674b=document[_0x39c813(0x217)+_0x39c813(0x1d1)](_0x45fb86[_0x39c813(0x25b)]);_0x523f07[_0x39c813(0x2bc)+'d'](_0x2e674b),_0xcd48b7[_0x39c813(0x2bc)+'d'](_0x523f07);for(let _0x2072f8 in _0x5eaf30[_0x39c813(0x1b5)]){let _0x158e3f=document[_0x39c813(0x2c7)+_0x39c813(0x13b)](_0x45fb86[_0x39c813(0x363)]);_0x158e3f[_0x39c813(0x186)+'te'](_0x45fb86[_0x39c813(0x158)],_0x5eaf30[_0x39c813(0x1b5)][_0x2072f8][_0x39c813(0x277)][_0x39c813(0x307)+'e']());let _0x9a600b=document[_0x39c813(0x217)+_0x39c813(0x1d1)](_0x5eaf30[_0x39c813(0x1b5)][_0x2072f8][_0x39c813(0x277)][_0x39c813(0x307)+'e']());_0x158e3f[_0x39c813(0x2bc)+'d'](_0x9a600b),_0xcd48b7[_0x39c813(0x2bc)+'d'](_0x158e3f);}_0xcd48b7[_0x39c813(0x290)]();})[_0x14d447(0x178)](_0x5a2961=>{const _0x484c4f=_0x14d447;console[_0x484c4f(0x2bf)](_0x45fb86[_0x484c4f(0x321)],_0x5a2961);});},'removeOptions':_0x42caae=>{const _0x3dba0d=_0x5a19,_0x278494={'gNCEg':function(_0x1e559b,_0x4a2abd){return _0x1e559b-_0x4a2abd;},'KjmDj':function(_0x3c10d1,_0x77e304){return _0x3c10d1>=_0x77e304;}};var _0xe73c1e,_0x53fd77=_0x278494[_0x3dba0d(0x29f)](_0x42caae[_0x3dba0d(0x185)][_0x3dba0d(0x2dc)],-0x2580+-0x2*0x477+0x1*0x2e6f);for(_0xe73c1e=_0x53fd77;_0x278494[_0x3dba0d(0x166)](_0xe73c1e,0x4b8*-0x4+0x260f*0x1+-0x132f);_0xe73c1e--){_0x42caae[_0x3dba0d(0x189)](_0xe73c1e);}},'getMall':(_0x450762,_0x1f4135)=>{const _0x181855=_0x5a19,_0x383534={'Nlmka':_0x181855(0x267),'tvGUf':_0x181855(0x2a2),'RsVpv':_0x181855(0x2a6),'uOvqd':_0x181855(0x1e6)+_0x181855(0x28a),'Bnawd':_0x181855(0x1f2),'dSubj':function(_0x33cb15,_0x36e0bd){return _0x33cb15(_0x36e0bd);}};_0x383534[_0x181855(0x144)](fetch,_0x450762)[_0x181855(0x1de)](_0x4b5d07=>{const _0x218987=_0x181855;return _0x4b5d07[_0x218987(0x155)]();})[_0x181855(0x1de)](_0x5716f8=>{const _0x5a6e39=_0x181855;osndp[_0x5a6e39(0x353)+_0x5a6e39(0x140)](_0x1f4135);let _0x3dd55b=document[_0x5a6e39(0x2c7)+_0x5a6e39(0x13b)](_0x383534[_0x5a6e39(0x177)]);_0x3dd55b[_0x5a6e39(0x186)+'te'](_0x383534[_0x5a6e39(0x2ef)],''),_0x3dd55b[_0x5a6e39(0x186)+'te'](_0x383534[_0x5a6e39(0x377)],_0x383534[_0x5a6e39(0x377)]);let _0x4d8af7=document[_0x5a6e39(0x217)+_0x5a6e39(0x1d1)](_0x383534[_0x5a6e39(0x283)]);_0x3dd55b[_0x5a6e39(0x2bc)+'d'](_0x4d8af7),_0x1f4135[_0x5a6e39(0x2bc)+'d'](_0x3dd55b);for(let _0x4e20ec in _0x5716f8[_0x5a6e39(0x1b5)]){let _0x19b948=document[_0x5a6e39(0x2c7)+_0x5a6e39(0x13b)](_0x383534[_0x5a6e39(0x177)]);_0x19b948[_0x5a6e39(0x186)+'te'](_0x383534[_0x5a6e39(0x2ef)],_0x5716f8[_0x5a6e39(0x1b5)][_0x4e20ec][_0x5a6e39(0x302)]);let _0x27e976=document[_0x5a6e39(0x217)+_0x5a6e39(0x1d1)](_0x5716f8[_0x5a6e39(0x1b5)][_0x4e20ec][_0x5a6e39(0x302)]);_0x19b948[_0x5a6e39(0x2bc)+'d'](_0x27e976),_0x1f4135[_0x5a6e39(0x2bc)+'d'](_0x19b948);}_0x1f4135[_0x5a6e39(0x290)]();})[_0x181855(0x178)](_0x197602=>{const _0x9055df=_0x181855;util[_0x9055df(0x2ea)](_0x9055df(0x2ca)+_0x197602,0x48f+0x277+-0x31e),console[_0x9055df(0x33f)](_0x383534[_0x9055df(0x194)],_0x197602);});},'updateMallDesc':_0x1b739b=>{const _0x3b855e=_0x5a19,_0x5b0d4f={'zRovH':_0x3b855e(0x36f)+_0x3b855e(0x1a9)},_0x1f1098=document[_0x3b855e(0x1b4)+_0x3b855e(0x218)](_0x5b0d4f[_0x3b855e(0x248)]);_0x1f1098[_0x3b855e(0x2a2)]=_0x1b739b;},'filterMall':(_0x49bd3d,_0x260a22)=>{const _0x2aba0d=_0x5a19,_0x32790b={'uinee':_0x2aba0d(0x267),'WpdtK':_0x2aba0d(0x2a2),'DeTTB':_0x2aba0d(0x1f2),'nVPpr':_0x2aba0d(0x1d6)+_0x2aba0d(0x19d)+_0x2aba0d(0x162)+_0x2aba0d(0x2f0),'xoFEb':function(_0x2a01ee,_0x42f72a){return _0x2a01ee(_0x42f72a);}};console[_0x2aba0d(0x2bf)](_0x32790b[_0x2aba0d(0x156)]),_0x32790b[_0x2aba0d(0x2d7)](fetch,_0x49bd3d)[_0x2aba0d(0x1de)](_0x3ed1f8=>{const _0x1e820b=_0x2aba0d;return _0x3ed1f8[_0x1e820b(0x155)]();})[_0x2aba0d(0x1de)](_0xedcdcb=>{const _0x221fa2=_0x2aba0d;osndp[_0x221fa2(0x353)+_0x221fa2(0x140)](_0x260a22);for(let _0x2abc3f in _0xedcdcb[_0x221fa2(0x1b5)]){let _0x5cf115=document[_0x221fa2(0x2c7)+_0x221fa2(0x13b)](_0x32790b[_0x221fa2(0x209)]);_0x5cf115[_0x221fa2(0x186)+'te'](_0x32790b[_0x221fa2(0x312)],_0xedcdcb[_0x221fa2(0x1b5)][_0x2abc3f][_0x221fa2(0x1a1)]);let _0x1b0d10=document[_0x221fa2(0x217)+_0x221fa2(0x1d1)](_0xedcdcb[_0x221fa2(0x1b5)][_0x2abc3f][_0x221fa2(0x302)]);_0x5cf115[_0x221fa2(0x2bc)+'d'](_0x1b0d10),_0x260a22[_0x221fa2(0x2bc)+'d'](_0x5cf115);}_0x260a22[_0x221fa2(0x290)]();})[_0x2aba0d(0x178)](_0x5d5b05=>{const _0x287e07=_0x2aba0d;util[_0x287e07(0x2ea)](_0x287e07(0x2ca)+_0x5d5b05,0x19+-0x883*0x1+-0x13*-0xa6),console[_0x287e07(0x33f)](_0x32790b[_0x287e07(0x308)],_0x5d5b05);});},'filterBy':_0x4bb02d=>{const _0x377a7a=_0x5a19,_0x3ce807={'qWTox':_0x377a7a(0x20b)+_0x377a7a(0x1d4)};console[_0x377a7a(0x2bf)](_0x3ce807[_0x377a7a(0x34c)],_0x4bb02d),osndp[_0x377a7a(0x306)]('1',_0x4bb02d);},'getTransact':_0x1f42d9=>{const _0x383dbc=_0x5a19,_0x17825f={'iyedG':_0x383dbc(0x23c),'qZGGV':_0x383dbc(0x345),'kHqPM':_0x383dbc(0x19c)},_0x48b23a={'keyboard':![],'backdrop':_0x17825f[_0x383dbc(0x188)]},_0x2520d8=new bootstrap[(_0x383dbc(0x17a))](document[_0x383dbc(0x1b4)+_0x383dbc(0x218)](_0x17825f[_0x383dbc(0x14b)]),_0x48b23a),_0x496ef9=document[_0x383dbc(0x1b4)+_0x383dbc(0x218)](_0x17825f[_0x383dbc(0x281)]);_0x496ef9[_0x383dbc(0x324)]=_0x383dbc(0x201)+_0x383dbc(0x142)+_0x383dbc(0x1d9)+_0x1f42d9[_0x383dbc(0x307)+'e']()+'?',_0x2520d8[_0x383dbc(0x373)]();},'getMsg':()=>{const _0x178414=_0x5a19,_0x129884={'ZaxIT':_0x178414(0x145)+_0x178414(0x2c1)};console[_0x178414(0x2bf)](_0x129884[_0x178414(0x18b)]);},'checkFileSize':()=>{const _0x33e575=_0x5a19,_0x1257d4={'mUzir':_0x33e575(0x34f)+_0x33e575(0x15b),'abWGf':function(_0x359077,_0x17b4ea){return _0x359077>_0x17b4ea;},'ruGiK':function(_0x362be0,_0x3de8a1){return _0x362be0<=_0x3de8a1;},'aeAHW':function(_0x549c73,_0x1349dd){return _0x549c73-_0x1349dd;},'iRHNf':function(_0xf9b3b8,_0x51f24a){return _0xf9b3b8/_0x51f24a;},'PSAGQ':function(_0x16cbba,_0x1a1ae1){return _0x16cbba>=_0x1a1ae1;},'WfyhE':_0x33e575(0x2a9)+_0x33e575(0x2ab),'QwAfP':_0x33e575(0x21d)+_0x33e575(0x257)+_0x33e575(0x20a)+_0x33e575(0x1f8)+_0x33e575(0x1a7),'JiWME':_0x33e575(0x196),'HPJZF':_0x33e575(0x2fc),'KlerR':_0x33e575(0x239)},_0xacb845=document[_0x33e575(0x1b4)+_0x33e575(0x218)](_0x1257d4[_0x33e575(0x231)]);if(_0x1257d4[_0x33e575(0x326)](_0xacb845[_0x33e575(0x20d)][_0x33e575(0x2dc)],-0x1*-0x103+-0x5*-0x175+-0x2c4*0x3))for(let _0x5b164a=-0x1fb5+0x427*-0x7+0x3cc6;_0x1257d4[_0x33e575(0x1bd)](_0x5b164a,_0x1257d4[_0x33e575(0x132)](_0xacb845[_0x33e575(0x20d)][_0x33e575(0x2dc)],-0x1d0f*-0x1+0xdae+-0x14*0x223));_0x5b164a++){const _0x4088d8=_0xacb845[_0x33e575(0x20d)][_0x33e575(0x206)](_0x5b164a)[_0x33e575(0x2fc)],_0x5b33d8=Math[_0x33e575(0x2eb)](_0x1257d4[_0x33e575(0x1cf)](_0x4088d8,-0x2*-0xd15+-0xc73+-0x9b7));if(_0x1257d4[_0x33e575(0x33e)](_0x5b33d8,0x68f*-0x1+0x1393+0x48e*-0x2)){const _0x10d1c8=document[_0x33e575(0x1b4)+_0x33e575(0x218)](_0x1257d4[_0x33e575(0x1bc)]);return _0x10d1c8[_0x33e575(0x26a)]=!![],util[_0x33e575(0x1a0)](_0x1257d4[_0x33e575(0x230)],_0x1257d4[_0x33e575(0x1bf)],_0x1257d4[_0x33e575(0x1e0)]),_0xacb845[_0x33e575(0x2a2)]=null,util[_0x33e575(0x1b2)](_0x1257d4[_0x33e575(0x310)]),![];}else{document[_0x33e575(0x1b4)+_0x33e575(0x218)](_0x1257d4[_0x33e575(0x1e0)])[_0x33e575(0x324)]='';const _0x5b44d1=document[_0x33e575(0x1b4)+_0x33e575(0x218)](_0x1257d4[_0x33e575(0x1bc)]);_0x5b44d1[_0x33e575(0x26a)]=![];}}},'getClaims':async(_0x274d8a,_0x5e67ce)=>{const _0x4628d4=_0x5a19,_0x472917={'BFxlc':_0x4628d4(0x1e8)+_0x4628d4(0x199),'ovnDw':_0x4628d4(0x1f2),'MIrwC':_0x4628d4(0x280)+_0x4628d4(0x1da)+')','qYGXX':function(_0x207aa0,_0x187385,_0x1d1879){return _0x207aa0(_0x187385,_0x1d1879);},'aUZpi':_0x4628d4(0x173)};console[_0x4628d4(0x2bf)](_0x472917[_0x4628d4(0x2e6)]),await _0x472917[_0x4628d4(0x16a)](fetch,myIp+(_0x4628d4(0x1d8)+'/')+_0x274d8a+'/'+_0x5e67ce+_0x4628d4(0x2ae)+nPage,{'cache':_0x472917[_0x4628d4(0x232)]})[_0x4628d4(0x1de)](_0x374039=>_0x374039[_0x4628d4(0x35e)]())[_0x4628d4(0x1de)](_0x32c9e9=>{const _0x3f996f=_0x4628d4;util[_0x3f996f(0x1b2)](_0x472917[_0x3f996f(0x197)]);})[_0x4628d4(0x178)](_0x1cbb01=>{const _0x5bc3ce=_0x4628d4;console[_0x5bc3ce(0x33f)](_0x472917[_0x5bc3ce(0x2b3)],_0x1cbb01);});},'notif':(_0x8a724c,_0x5dc1d3)=>{const _0x358034=_0x5a19,_0xfb00f1={'gLTlV':_0x358034(0x33b)};!_0x5dc1d3?document[_0x358034(0x1b4)+_0x358034(0x218)](_0xfb00f1[_0x358034(0x33c)])[_0x358034(0x324)]=_0x358034(0x2fb)+_0x358034(0x1fa)+_0x358034(0x1ac)+_0x358034(0x184)+_0x358034(0x150)+_0x358034(0x364)+_0x358034(0x334)+_0x358034(0x2c3)+_0x358034(0x24a)+_0x8a724c+_0x358034(0x271):document[_0x358034(0x1b4)+_0x358034(0x218)](_0xfb00f1[_0x358034(0x33c)])[_0x358034(0x324)]='';},'speaks':null,'collapz':()=>{const _0x327cf2=_0x5a19,_0x141f2e={'NdmXR':_0x327cf2(0x31a)+_0x327cf2(0x2df)};document[_0x327cf2(0x1b4)+_0x327cf2(0x218)](_0x141f2e[_0x327cf2(0x279)])[_0x327cf2(0x290)]();},'getRecord':(_0x1ad923,_0x2e7018)=>{const _0x38b7b5=_0x5a19,_0x568d6a={'duyjT':_0x38b7b5(0x203)+'im','pXuxn':_0x38b7b5(0x327)+_0x38b7b5(0x1fe),'ydvqQ':_0x38b7b5(0x25e),'cJpmE':_0x38b7b5(0x143)+'ch','EzEFK':_0x38b7b5(0x1f2),'SEaZF':_0x38b7b5(0x337)+'..','rwqmf':function(_0x921590,_0x7b7721){return _0x921590==_0x7b7721;},'OoRbn':function(_0x25b24b,_0x47a199){return _0x25b24b==_0x47a199;},'hfjxK':_0x38b7b5(0x14c),'KOnyF':_0x38b7b5(0x26e)+_0x38b7b5(0x2aa)+_0x38b7b5(0x1e2)+_0x38b7b5(0x344)+_0x38b7b5(0x1b8)+_0x38b7b5(0x369)+_0x38b7b5(0x22d)+_0x38b7b5(0x2be)+_0x38b7b5(0x215)+_0x38b7b5(0x133)+_0x38b7b5(0x35a)+_0x38b7b5(0x198)+_0x38b7b5(0x1af),'kAtdN':function(_0x46638b,_0x337093){return _0x46638b(_0x337093);},'HRCYq':_0x38b7b5(0x234),'IEGki':_0x38b7b5(0x331)+_0x38b7b5(0x1f5)+_0x38b7b5(0x2d3)+_0x38b7b5(0x1ef)+_0x38b7b5(0x16c),'ySQNf':_0x38b7b5(0x31a)+_0x38b7b5(0x2df),'IYrFT':_0x38b7b5(0x27b)+'e','VjeDa':_0x38b7b5(0x282)+_0x38b7b5(0x1ff)+_0x38b7b5(0x2e5),'HkCWB':function(_0x121974,_0x4787ea){return _0x121974>_0x4787ea;},'DiVDk':_0x38b7b5(0x366),'HzCPF':_0x38b7b5(0x26e)+_0x38b7b5(0x2aa)+_0x38b7b5(0x1e2)+_0x38b7b5(0x344)+_0x38b7b5(0x1b8)+_0x38b7b5(0x369)+_0x38b7b5(0x28d)+_0x38b7b5(0x223)+_0x38b7b5(0x1af),'yRiNb':_0x38b7b5(0x329),'zDsKn':_0x38b7b5(0x34a)+_0x38b7b5(0x1cc),'dmovb':function(_0xa174be,_0x5ac0b8){return _0xa174be!==_0x5ac0b8;},'qCJjm':function(_0x5030eb,_0x322068){return _0x5030eb==_0x322068;},'TQZQW':function(_0x39c14e,_0x5560c1){return _0x39c14e==_0x5560c1;},'Oepwg':function(_0x59e011,_0xd3ea56,_0x242f82){return _0x59e011(_0xd3ea56,_0x242f82);},'JaXAi':_0x38b7b5(0x173)};let _0x5172fb;asn[_0x38b7b5(0x195)](_0x568d6a[_0x38b7b5(0x1db)]);if(_0x568d6a[_0x38b7b5(0x33d)](_0x1ad923,'')&&_0x568d6a[_0x38b7b5(0x2bb)](_0x2e7018,''))return console[_0x38b7b5(0x2bf)](_0x568d6a[_0x38b7b5(0x20f)]),_0x5172fb=_0x568d6a[_0x38b7b5(0x35b)],_0x568d6a[_0x38b7b5(0x1cb)](Toastify,{'text':_0x5172fb,'duration':0x1770,'escapeMarkup':![],'close':![],'position':_0x568d6a[_0x38b7b5(0x17f)],'offset':{'x':0x0,'y':0x64},'style':{'background':_0x568d6a[_0x38b7b5(0x243)]}})[_0x38b7b5(0x18a)](),![];let _0x31b074=[],_0x47aac8=[_0x568d6a[_0x38b7b5(0x29d)],_0x568d6a[_0x38b7b5(0x13e)]];_0x31b074[_0x38b7b5(0x278)](document[_0x38b7b5(0x1b4)+_0x38b7b5(0x218)](_0x568d6a[_0x38b7b5(0x29d)])[_0x38b7b5(0x16b)]),_0x31b074[_0x38b7b5(0x278)](document[_0x38b7b5(0x1b4)+_0x38b7b5(0x218)](_0x568d6a[_0x38b7b5(0x13e)])[_0x38b7b5(0x16b)]);let _0x189734=_0x31b074[_0x38b7b5(0x2ce)](_0x568d6a[_0x38b7b5(0x1ee)]);if(_0x568d6a[_0x38b7b5(0x241)](_0x189734,-(0x13ac+-0x4c6*0x6+-0x1*-0x8f9))){const _0xe29b66=_0x568d6a[_0x38b7b5(0x190)][_0x38b7b5(0x233)]('|');let _0x65caab=0x179a+-0x252c+0x243*0x6;while(!![]){switch(_0xe29b66[_0x65caab++]){case'0':_0x5172fb=_0x568d6a[_0x38b7b5(0x26d)];continue;case'1':_0x568d6a[_0x38b7b5(0x1cb)](Toastify,{'text':_0x5172fb,'duration':0xbb8,'escapeMarkup':![],'close':![],'position':_0x568d6a[_0x38b7b5(0x17f)],'offset':{'x':0x0,'y':0x64},'style':{'background':_0x568d6a[_0x38b7b5(0x243)]}})[_0x38b7b5(0x18a)]();continue;case'2':return![];case'3':document[_0x38b7b5(0x1b4)+_0x38b7b5(0x218)](_0x47aac8[_0x189734])[_0x38b7b5(0x355)][_0x38b7b5(0x189)](_0x568d6a[_0x38b7b5(0x2c6)]);continue;case'4':document[_0x38b7b5(0x1b4)+_0x38b7b5(0x218)](_0x47aac8[_0x189734])[_0x38b7b5(0x2a2)]='';continue;}break;}}else{console[_0x38b7b5(0x2bf)](_0x568d6a[_0x38b7b5(0x314)]);let _0x33fbcb='';if(_0x568d6a[_0x38b7b5(0x1d7)](_0x1ad923,'')&&_0x568d6a[_0x38b7b5(0x1a2)](_0x2e7018,''))_0x33fbcb=myIp+(_0x38b7b5(0x141)+'/')+_0x1ad923+_0x38b7b5(0x1d0);else _0x568d6a[_0x38b7b5(0x2f5)](_0x1ad923,'')&&_0x568d6a[_0x38b7b5(0x1d7)](_0x2e7018,'')?_0x33fbcb=myIp+(_0x38b7b5(0x141)+_0x38b7b5(0x208))+_0x2e7018:_0x33fbcb=myIp+(_0x38b7b5(0x141)+'/')+_0x1ad923+'/'+_0x2e7018;_0x568d6a[_0x38b7b5(0x22b)](fetch,_0x33fbcb,{'cache':_0x568d6a[_0x38b7b5(0x2d8)]})[_0x38b7b5(0x1de)](_0x46f3f6=>_0x46f3f6[_0x38b7b5(0x35e)]())[_0x38b7b5(0x1de)](_0x4fae70=>{const _0x228923=_0x38b7b5;let _0x4f2c90=_0x228923(0x296)+_0x228923(0x28e)+_0x228923(0x193)+_0x228923(0x32d)+_0x228923(0x1ec)+_0x228923(0x28e)+_0x228923(0x258)+_0x228923(0x172)+_0x228923(0x2f6)+_0x228923(0x27a)+_0x228923(0x28e)+_0x228923(0x2d4)+_0x228923(0x214)+_0x228923(0x1ca)+_0x228923(0x28e)+_0x228923(0x28e)+_0x228923(0x258)+_0x228923(0x1a6)+_0x228923(0x169)+_0x228923(0x28e)+_0x228923(0x28e)+_0x228923(0x193)+_0x228923(0x213)+_0x228923(0x27a)+_0x228923(0x28e)+_0x228923(0x28e)+_0x228923(0x18f)+_0x228923(0x1be)+_0x228923(0x36c)+_0x228923(0x256)+_0x228923(0x2b5)+_0x228923(0x254)+_0x228923(0x225)+_0x228923(0x1a3)+_0x228923(0x179)+_0x228923(0x21c)+_0x228923(0x171)+_0x228923(0x16d)+_0x228923(0x210)+_0x228923(0x28e)+_0x228923(0x28e)+_0x228923(0x2c4)+_0x228923(0x16f)+_0x228923(0x28e)+_0x228923(0x21b)+_0x228923(0x2e7)+_0x228923(0x272)+_0x228923(0x200)+_0x228923(0x28e)+_0x228923(0x28e)+_0x228923(0x350)+_0x228923(0x28e)+_0x228923(0x28e)+_0x228923(0x30a)+_0x228923(0x28e)+_0x228923(0x28e)+_0x228923(0x131)+_0x228923(0x28e)+_0x228923(0x2f1)+_0x228923(0x174)+_0x228923(0x28e)+_0x228923(0x2c4);document[_0x228923(0x1b4)+_0x228923(0x218)](_0x568d6a[_0x228923(0x370)])[_0x228923(0x355)][_0x228923(0x2d9)](_0x568d6a[_0x228923(0x165)]),document[_0x228923(0x1b4)+_0x228923(0x218)](_0x568d6a[_0x228923(0x370)])[_0x228923(0x355)][_0x228923(0x2d9)](_0x568d6a[_0x228923(0x24f)]),document[_0x228923(0x1b4)+_0x228923(0x218)](_0x568d6a[_0x228923(0x370)])[_0x228923(0x324)]=_0x4f2c90,document[_0x228923(0x1b4)+_0x228923(0x218)](_0x568d6a[_0x228923(0x1f6)])[_0x228923(0x324)]='',document[_0x228923(0x1b4)+_0x228923(0x218)](_0x568d6a[_0x228923(0x1f6)])[_0x228923(0x324)]=_0x4fae70,util[_0x228923(0x1b2)](_0x568d6a[_0x228923(0x370)]);})[_0x38b7b5(0x178)](_0x4aa655=>{const _0x5ba35b=_0x38b7b5;console[_0x5ba35b(0x33f)](_0x568d6a[_0x5ba35b(0x31b)],_0x4aa655);});}},'checkpdf':_0x149ff9=>{const _0x38915e=_0x5a19,_0x238f85={'pVNZP':function(_0x530a72,_0x496a49){return _0x530a72(_0x496a49);},'UuCuz':_0x38915e(0x234),'yPqsr':_0x38915e(0x331)+_0x38915e(0x1f5)+_0x38915e(0x2d3)+_0x38915e(0x1ef)+_0x38915e(0x16c),'oGRVv':_0x38915e(0x1f2),'YQcyo':_0x38915e(0x1ce)+_0x38915e(0x1c6)+_0x38915e(0x250),'uHEhu':function(_0x1d773a,_0x510190,_0x2d835d){return _0x1d773a(_0x510190,_0x2d835d);},'gcHkj':_0x38915e(0x173)};asn[_0x38915e(0x195)](_0x238f85[_0x38915e(0x2a7)]),_0x238f85[_0x38915e(0x1a8)](fetch,myIp+_0x38915e(0x332)+_0x149ff9,{'cache':_0x238f85[_0x38915e(0x161)]})[_0x38915e(0x1de)](_0x28d60b=>{const _0x3eed12=_0x38915e;return _0x28d60b[_0x3eed12(0x155)]();})[_0x38915e(0x1de)](_0x536fc3=>{const _0x1bf362=_0x38915e;return _0x536fc3[_0x1bf362(0x18d)]?asn[_0x1bf362(0x26f)](_0x149ff9,_0x536fc3[_0x1bf362(0x138)]):(asn[_0x1bf362(0x195)](_0x1bf362(0x313)+_0x1bf362(0x224)+_0x1bf362(0x335)+_0x1bf362(0x2a1)+'\x20'+_0x536fc3[_0x1bf362(0x138)]),_0x238f85[_0x1bf362(0x19e)](Toastify,{'text':_0x1bf362(0x313)+_0x1bf362(0x224)+_0x1bf362(0x335)+_0x1bf362(0x2a1)+'\x20'+_0x536fc3[_0x1bf362(0x138)],'duration':0x1770,'escapeMarkup':![],'close':![],'position':_0x238f85[_0x1bf362(0x19a)],'offset':{'x':0x0,'y':0x64},'style':{'background':_0x238f85[_0x1bf362(0x181)]}})[_0x1bf362(0x18a)]()),!![];})[_0x38915e(0x178)](_0x17363b=>{const _0x5e3947=_0x38915e;console[_0x5e3947(0x33f)](_0x238f85[_0x5e3947(0x2cd)],_0x17363b);});},'createpdf':(_0x5a4606,_0x3c6c27)=>{const _0x313bf1=_0x5a19,_0x3f81c2={'AQRHo':function(_0x52f9c0,_0x57f407){return _0x52f9c0(_0x57f407);},'cjmmN':_0x313bf1(0x22c)+_0x313bf1(0x153)+_0x313bf1(0x262),'FtqzD':_0x313bf1(0x234),'XrNoc':_0x313bf1(0x331)+_0x313bf1(0x1f5)+_0x313bf1(0x2d3)+_0x313bf1(0x1ef)+_0x313bf1(0x16c),'NJFmm':_0x313bf1(0x1f2),'fKkxL':function(_0x5af3c4,_0x2b0d83,_0x40df04){return _0x5af3c4(_0x2b0d83,_0x40df04);},'gGaFg':_0x313bf1(0x173)};_0x3f81c2[_0x313bf1(0x360)](fetch,myIp+(_0x313bf1(0x1c9)+'/')+_0x5a4606+'/'+_0x3c6c27,{'cache':_0x3f81c2[_0x313bf1(0x261)]})[_0x313bf1(0x1de)](_0x22f016=>{const _0x15b476=_0x313bf1;return _0x22f016[_0x15b476(0x2b2)]();})[_0x313bf1(0x1de)](_0x7532d4=>{const _0x5b7fcb=_0x313bf1,_0x29207d=window[_0x5b7fcb(0x137)][_0x5b7fcb(0x27e)+_0x5b7fcb(0x2c2)](_0x7532d4),_0x36470a=document[_0x5b7fcb(0x2c7)+_0x5b7fcb(0x13b)]('a');return _0x36470a[_0x5b7fcb(0x343)]=_0x29207d,_0x36470a[_0x5b7fcb(0x1e7)]=_0x5b7fcb(0x13a)+_0x5a4606+_0x5b7fcb(0x26c),document[_0x5b7fcb(0x358)][_0x5b7fcb(0x2bc)+'d'](_0x36470a),_0x36470a[_0x5b7fcb(0x2b6)](),_0x36470a[_0x5b7fcb(0x189)](),window[_0x5b7fcb(0x137)][_0x5b7fcb(0x23d)+_0x5b7fcb(0x2c2)](_0x29207d),asn[_0x5b7fcb(0x1b6)](_0x5a4606),_0x3f81c2[_0x5b7fcb(0x21e)](Toastify,{'text':_0x3f81c2[_0x5b7fcb(0x333)],'duration':0xbb8,'escapeMarkup':![],'close':![],'position':_0x3f81c2[_0x5b7fcb(0x2d5)],'offset':{'x':0x0,'y':0x64},'style':{'background':_0x3f81c2[_0x5b7fcb(0x316)]}})[_0x5b7fcb(0x18a)](),!![];})[_0x313bf1(0x178)](_0x11c1ba=>{const _0x2fb576=_0x313bf1;console[_0x2fb576(0x33f)](_0x3f81c2[_0x2fb576(0x294)],_0x11c1ba);});},'deletepdf':_0x5ed665=>{const _0x343379=_0x5a19,_0x1c94bc={'KnVdk':function(_0x3ce41c,_0x3259b9){return _0x3ce41c(_0x3259b9);},'CCcJm':_0x343379(0x22c)+_0x343379(0x153)+_0x343379(0x262),'LjGvE':_0x343379(0x234),'RyAzj':_0x343379(0x331)+_0x343379(0x1f5)+_0x343379(0x2d3)+_0x343379(0x1ef)+_0x343379(0x16c),'FSQAf':_0x343379(0x1f2),'kQqjP':function(_0x5a4f87,_0x3e0179,_0x1880bc){return _0x5a4f87(_0x3e0179,_0x1880bc);},'vCTOq':_0x343379(0x173)};_0x1c94bc[_0x343379(0x23e)](fetch,myIp+(_0x343379(0x17d)+'/')+_0x5ed665,{'cache':_0x1c94bc[_0x343379(0x295)]})[_0x343379(0x1de)](_0x12de77=>{const _0x3570f5=_0x343379;return _0x12de77[_0x3570f5(0x155)]();})[_0x343379(0x1de)](_0x1e2da3=>{const _0x56ad68=_0x343379;_0x1e2da3[_0x56ad68(0x18d)]&&_0x1c94bc[_0x56ad68(0x285)](Toastify,{'text':_0x1c94bc[_0x56ad68(0x13f)],'duration':0xbb8,'escapeMarkup':![],'close':![],'position':_0x1c94bc[_0x56ad68(0x1c0)],'offset':{'x':0x0,'y':0x64},'style':{'background':_0x1c94bc[_0x56ad68(0x1c5)]}})[_0x56ad68(0x18a)]();})[_0x343379(0x178)](_0x14e90f=>{const _0x145b94=_0x343379;console[_0x145b94(0x33f)](_0x1c94bc[_0x145b94(0x205)],_0x14e90f);});},'getTopHub':async()=>{const _0x5946bc=_0x5a19,_0x28e063={'bKkNk':_0x5946bc(0x29a),'DiNxz':_0x5946bc(0x1f2),'hCTol':function(_0xff34,_0x2c3131,_0x55dbc6){return _0xff34(_0x2c3131,_0x55dbc6);},'bOBDe':_0x5946bc(0x173)};await _0x28e063[_0x5946bc(0x176)](fetch,myIp+_0x5946bc(0x2c0),{'cache':_0x28e063[_0x5946bc(0x1ae)]})[_0x5946bc(0x1de)](_0x15072f=>_0x15072f[_0x5946bc(0x35e)]())[_0x5946bc(0x1de)](_0x4e07d2=>{const _0xa18acb=_0x5946bc;document[_0xa18acb(0x1b4)+_0xa18acb(0x218)](_0x28e063[_0xa18acb(0x220)])[_0xa18acb(0x324)]='',document[_0xa18acb(0x1b4)+_0xa18acb(0x218)](_0x28e063[_0xa18acb(0x220)])[_0xa18acb(0x324)]=_0x4e07d2,util[_0xa18acb(0x1b2)](_0x28e063[_0xa18acb(0x220)]),asn[_0xa18acb(0x2bd)+'r']();})[_0x5946bc(0x178)](_0x5b2ee4=>{const _0x49cf19=_0x5946bc;console[_0x49cf19(0x33f)](_0x28e063[_0x49cf19(0x14d)],_0x5b2ee4);});},'getTopRider':async()=>{const _0x5cdf98=_0x5a19,_0x1ce562={'YkgoB':_0x5cdf98(0x357),'RBfxV':_0x5cdf98(0x1e8)+_0x5cdf98(0x199),'svGmD':_0x5cdf98(0x1f2),'oxdtU':function(_0xd089ab,_0x492a5e,_0x347c5b){return _0xd089ab(_0x492a5e,_0x347c5b);},'ieEgR':_0x5cdf98(0x173)};await _0x1ce562[_0x5cdf98(0x264)](fetch,myIp+_0x5cdf98(0x237),{'cache':_0x1ce562[_0x5cdf98(0x1dc)]})[_0x5cdf98(0x1de)](_0x5e6b2e=>_0x5e6b2e[_0x5cdf98(0x35e)]())[_0x5cdf98(0x1de)](_0x359ca3=>{const _0x57e701=_0x5cdf98;document[_0x57e701(0x1b4)+_0x57e701(0x218)](_0x1ce562[_0x57e701(0x2f8)])[_0x57e701(0x324)]='',document[_0x57e701(0x1b4)+_0x57e701(0x218)](_0x1ce562[_0x57e701(0x2f8)])[_0x57e701(0x324)]=_0x359ca3,util[_0x57e701(0x1b2)](_0x1ce562[_0x57e701(0x32e)]);})[_0x5cdf98(0x178)](_0x5c71b5=>{const _0x4c4ace=_0x5cdf98;console[_0x4c4ace(0x33f)](_0x1ce562[_0x4c4ace(0x164)],_0x5c71b5);});},'init':async()=>{const _0x1129e1=_0x5a19,_0x2355ca={'bKrWi':_0x1129e1(0x1cd),'MfVIl':_0x1129e1(0x320)+_0x1129e1(0x227),'ZmxEA':_0x1129e1(0x204),'DawrB':_0x1129e1(0x336),'ECuiC':_0x1129e1(0x2cf),'zGrda':_0x1129e1(0x148)+_0x1129e1(0x23b),'IRUiH':_0x1129e1(0x30d),'qauEw':_0x1129e1(0x356)+'e','iTkqB':_0x1129e1(0x338),'FskcG':function(_0x46be4a,_0x8cbe88){return _0x46be4a!==_0x8cbe88;},'caFFX':_0x1129e1(0x2d2)+'m','fUyoA':_0x1129e1(0x2cc)+'m','KgGDX':_0x1129e1(0x265)+'l','eyPiV':_0x1129e1(0x28c)+'l'};asn[_0x1129e1(0x311)](),document[_0x1129e1(0x1b4)+_0x1129e1(0x218)](_0x2355ca[_0x1129e1(0x1f3)])[_0x1129e1(0x17c)]=myIp+_0x1129e1(0x318),document[_0x1129e1(0x1b4)+_0x1129e1(0x218)](_0x2355ca[_0x1129e1(0x136)])[_0x1129e1(0x17c)]=myIp+_0x1129e1(0x34e),asn[_0x1129e1(0x195)]=_0x2e49ee=>{const _0x7385be=_0x1129e1;let _0xd636a5=new SpeechSynthesisUtterance();_0xd636a5[_0x7385be(0x35e)]=_0x2e49ee,_0xd636a5[_0x7385be(0x325)]=_0x2355ca[_0x7385be(0x297)],speechSynthesis[_0x7385be(0x1b3)](_0xd636a5);};let _0x3ce627=[];_0x3ce627[_0x1129e1(0x278)](util[_0x1129e1(0x367)](_0x2355ca[_0x1129e1(0x322)])),_0x3ce627[_0x1129e1(0x278)](util[_0x1129e1(0x367)](_0x2355ca[_0x1129e1(0x2fe)])),console[_0x1129e1(0x2bf)](_0x3ce627[-0x685+0x7ef+0x1*-0x169]);const _0x394928={'token':_0x3ce627[0x2503+0xd69*-0x2+-0x518*0x2],'mode':0x1};asn[_0x1129e1(0x182)]=io[_0x1129e1(0x365)](''+myIp,{'query':_0x1129e1(0x1dd)+JSON[_0x1129e1(0x1f9)](_0x394928)}),console[_0x1129e1(0x2bf)](_0x2355ca[_0x1129e1(0x319)]),asn[_0x1129e1(0x195)](util[_0x1129e1(0x367)](_0x2355ca[_0x1129e1(0x35f)])),document[_0x1129e1(0x1b4)+_0x1129e1(0x218)](_0x2355ca[_0x1129e1(0x1d5)])[_0x1129e1(0x291)]=_0x1129e1(0x2b1)+_0x1129e1(0x1eb)+_0x1129e1(0x1e4)+util[_0x1129e1(0x367)](_0x2355ca[_0x1129e1(0x2a0)]);if(_0x2355ca[_0x1129e1(0x202)](util[_0x1129e1(0x367)](_0x2355ca[_0x1129e1(0x322)]),'1')){}else{}util[_0x1129e1(0x175)+_0x1129e1(0x15f)](_0x2355ca[_0x1129e1(0x1f1)]),util[_0x1129e1(0x175)+_0x1129e1(0x15f)](_0x2355ca[_0x1129e1(0x299)]),util[_0x1129e1(0x15c)+_0x1129e1(0x2de)](_0x2355ca[_0x1129e1(0x14a)]),util[_0x1129e1(0x15c)+_0x1129e1(0x2de)](_0x2355ca[_0x1129e1(0x24d)]);}};window[_0x5179ba(0x28b)](0x2645*0x1+0x9b9+0x1*-0x2ffe,-0x1318+0xec4+0x454),asn[_0x5179ba(0x303)]();
+/*
+
+author : Carlo O. Dominguez
+
+*/
+
+//
+//speech synthesis
+
+const asn = {
+	
+    offset: 0,
+
+    shopCart: [],
+    
+    //online version socket.io
+    //socket:io.connect("https://osndp.onrender.com"),
+
+    socket:null,
+
+    //=========================START VOICE SYNTHESIS ===============
+    getVoice: async () => {
+                
+        voices = synth.getVoices()
+        console.log( 'GETVOICE()')
+                
+        voices.every(value => {
+            if(value.name.indexOf("English")>-1){
+                console.log( "main.js bingo!-->",value.name, value.lang )
+                
+            }
+        })
+        
+    },//end func getvoice
+
+    //speak method
+    speak:(theMsg)=> {
+                        
+        console.log("SPEAK()")
+        
+        // If the speech mode is on we dont want to load
+        // another speech
+        if(synth.speaking) {
+            //alert('Already speaking....');
+            return;
+        }	
+
+        const speakText = new SpeechSynthesisUtterance(theMsg);
+
+        // When the speaking is ended this method is fired
+        speakText.onend = e => {
+            //synth.resume();
+            console.log('Speaking is done!');
+        };
+        
+        // When any error occurs this method is fired
+        speakText.error = e=> {
+            console.error('Error occurred...');
+        };
+
+        // Checking which voices has been chosen from the selection
+        // and setting the voice to the chosen voice
+        
+        
+        voices.forEach(voice => {
+            if(voice.name.indexOf("English")>-1){	
+                ///// take out bring back later, 
+                //console.log("speaking voice is ",voice.name)
+                speakText.voice = voice
+                
+            }
+            
+        });
+
+        // Setting the rate and pitch of the voice
+        speakText.rate = 1
+        speakText.pitch = 1
+
+        // Finally calling the speech function that enables speech
+        synth.speak(speakText)
+
+        synth.cancel()
+
+    },//end func speak	
+    //=======================END VOICE SYNTHESIS==========
+
+    //===========================addtocart
+    addtoCart:async (elemId, eqptId, nKey) =>{
+        let qtys = document.getElementById(elemId)
+        let adata = osndp.dataforTag[nKey].equipment_value
+        const badge = document.getElementById('bell-badge')
+            
+        //console.log(nKey)
+
+        if(osndp.shopCart.length > 0){
+        
+            let oFind = osndp.shopCart.find( (cart)=> cart.id == eqptId)
+             
+            if(oFind === undefined){
+                osndp.shopCart.push({
+                    id: eqptId, 
+                    data: adata,
+                    qty: qtys.value,
+                    price: osndp.dataforTag[nKey].price,
+                    sale: osndp.dataforTag[nKey].sale_price,
+                    total: qtys.value * osndp.dataforTag[nKey].sale_price
+                })
+
+                badge.innerHTML = osndp.shopCart.length
+                
+                util.Toast("Item Successfully Added!",2000)
+            }else{
+                  
+                console.log('present!,...ignore')
+                util.Toast('THIS ITEM IS ALREADY IN CART!',2000)
+                return true;  
+            }
+        
+        }else{
+            osndp.shopCart.push({
+                id: eqptId, 
+                data: adata,
+                qty: qtys.value,
+                price: osndp.dataforTag[nKey].price,
+                sale: osndp.dataforTag[nKey].sale_price,
+                total: qtys.value * osndp.dataforTag[nKey].sale_price
+            })
+
+            badge.innerHTML = osndp.shopCart.length
+            
+            util.Toast("Item Successfully Added!",2000)
+        }
+   
+        console.log( '====TOTAL SHOPCART===',osndp.shopCart) 
+    },
+
+
+    showCartModal:()=>{
+        const configObj = { keyboard: false, backdrop:'static' }
+        
+        let pocartmodal =  new bootstrap.Modal(document.getElementById('pocartModal'),configObj);
+        
+        let pocartModalEl = document.getElementById('pocartModal')
+
+        if(osndp.shopCart.length == 0){
+            util.Toast('SHOPPING CART EMPTY!',2000)
+            e.preventDefault()
+            e.stopPropagation()
+            return false
+        
+        }else{
+            osndp.showcart()
+            pocartmodal.show()
+          
+        }//eif
+        
+    },
+
+    //======================= show cart
+    showcart:() => {
+                
+        if(osndp.shopCart.length > 0){
+            
+            document.getElementById('cart-content').innerHTML = ""
+            
+            for (let key in osndp.shopCart) {
+                
+                const info = JSON.parse(osndp.shopCart[key].data)
+
+                document.getElementById('cart-content').innerHTML += `
+                <a class="dropdown-item d-flex align-items-center" href="javascript:void(0)">
+                <div class="me-3">
+                    <div class="bg-primary icon-circle"><i class="fas fa-file-alt text-white"></i></div>
+                </div>
+                <div>
+                
+                <span class=eqptno>
+                ${info.equipment_type.toUpperCase()}<br>
+                ${info.eqpt_description}<br>
+                </span>
+                <span class='eqptmain' >
+                ${info.serial}<br>
+                Qty. ${osndp.shopCart[key].qty}<br>
+                Price : &#8369;${ util.addCommas(parseFloat(osndp.shopCart[key].sale).toFixed(2)) }<br>
+                TOTAL : &#8369;${ util.addCommas(parseFloat(osndp.shopCart[key].total).toFixed(2)) }<br></span>
+                </div>
+                </a>`
+                
+            }//===========end for next
+        } 
+    },
+
+    getimagename:()=>{
+        document.getElementById('serial_image').value = document.getElementById('client_po').value
+    },
+   
+    //===========================show modal and iamge
+    showPdf: async (src) => {
+        console.log('*** showImage() ****')
+        console.log(src)
+      
+        osndp.fileExists( src )
+        
+    },
+
+    //=============== SHOW COMMENT MODAL ============//
+    showIssue: async (id) => {
+        console.log('==eo site number== ', id)
+        util.modalShow('commentsModal')
+    },
+
+    //===check file exist in server
+    fileExists:async (url, )=> {
+        const configObj = { keyboard: false, backdrop:'static' }
+        const ximagemodal =  new bootstrap.Modal(document.getElementById('imageModal'),configObj);
+        const imageModalEl = document.getElementById('imageModal')
+        let pdfprev = document.getElementById('pdf_iframe')
+
+        console.log('=====osndp.fileExists()===',url)
+        await fetch( `https://localhost:10000/fileexist/${url}`)
+        .then(response => { 
+            return response.json()
+        })
+        .then( (data)=>{
+            if (data.status) { 
+                console.log("File exists"); 
+                pdfprev.src =`https://vantaztic.com/osndp/${url}`
+                ximagemodal.show()
+                pdfprev.width = window.innerWidth
+    
+            } else { 
+                console.log("File does not exist"); 
+                alert('ERROR, FILE NOT FOUND!')
+                //document.getElementById('pdf-modal-body').innerHTML=""
+                //osndp.alertMsg('File not Found!','danger','pdf-modal-body')
+                ximagemodal.hide()
+                pdfprev.src = ""
+            } 
+        }) 
+        .catch(error => { 
+            console.log("An error occurred: ", error); 
+        })
+        
+        imageModalEl.addEventListener('hide.bs.modal', function (event) {
+            pdfprev.src += '';
+        })
+         
+    },
+
+    //for badge countr
+    fetchBadgeData: async()=>{ //first to fire to update badge
+        fetch(`/fetchinitdata`).then((response) => {  //promise... then 
+            return response.json();
+        })
+        .then((data) => {
+            
+            console.log(data)
+            //==== update badage for pending approv
+            const badge = document.getElementById('bell-badge')
+            badge.innerHTML = data.result[2].status_count
+
+            const rentbadge = document.getElementById('rent-badge')
+            rentbadge.innerHTML = data.result[0].status_count
+            
+            const salebadge = document.getElementById('sale-badge')
+            salebadge.innerHTML = data.result[1].status_count
+            
+        })
+        .catch((error) => {
+            util.Toast(`Error:,dito nga ${error}`,1000)
+            console.error('Error:', error)
+        })    
+
+    },
+
+    /*
+    filterArr:(cSerial, aArrid, transtype) => {
+       		
+        //table
+        const  tbodyRef = document.getElementById('dataTagTable').getElementsByTagName('tbody')[0];
+        tbodyRef.innerHTML="" //RESET FIRST
+
+        let newRow = tbodyRef.insertRow();
+        // Insert a cell
+        let cell1 = newRow.insertCell(0);
+        let cell2 = newRow.insertCell(1);
+        let cell3 = newRow.insertCell(2);
+        
+        let newArray = osndp.dataforTag.filter(function (el)
+        {
+          return el.equipment_id  == aArrid //return object record if id matched with param ID
+        }
+        )
+        let newVal = JSON.parse(newArray[0].equipment_value)
+        
+        ////console.log( newVal)
+        //value
+        cell1.innerHTML =   `<span class='eqptno' >${newVal.serial}<br>
+        ${newVal.equipment_type.toUpperCase()}<br>${newVal.eqpt_description}</span>`
+        
+        cell2.innerHTML =   `&#8369;${util.addCommas(parseFloat(newVal.price).toFixed(2))}`
+        cell2.style.textAlign = "right"
+        
+        cell3.innerHTML =   newVal.date_reg
+        
+        let divrentsale = document.getElementById('div-rent-sale')
+        divrentsale.innerHTML='' //reset
+        
+        //=============template
+        if(transtype=="rent"){
+            divrentsale.innerHTML=`
+            <div class="row">
+            <div class="col">
+                <label for="client_po">PO Number</label>
+                <input type="text" onkeydown='javascript:imagepo()' style="text-transform: uppercase" id="client_po" name="client_po" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="client_invoice">Invoice Number</label>
+                <input type="text" style="text-transform: uppercase" id="client_invoice" name="client_invoice" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="client_name">Client Full Name</label>
+                <input type="text" style="text-transform: uppercase" id="client_name" name="client_name" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="company_name">Company Name</label>
+                <input type="text" style="text-transform: uppercase" id="company_name" name="company_name" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="company_address">Company Address</label>
+                <input type="text" style="text-transform: uppercase" id="company_address" name="company_address" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row"> 
+            <div class="col">
+                <label for="company_phone">Company Phone</label>
+                <input type="text" id="company_phone" name="company_phone" placeholder="0917-123-1234" pattern="[0-9]{4}-[0-9]{3}-[0-9]{4}" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="company_email">Company Email</label>
+                <input type="email" style="text-transform: lowercase" id="company_email" name="company_email" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="rent-price">Rent Price</label>
+                <input type="text" id="eqpt_id" name="eqpt_id" value="${aArrid}" class="lets-hide">
+                <input type="text" id="trans_type" name="trans_type" value="rent" class="lets-hide">
+                <input type="number" step="0.01" placeholder="0.00" class="form-control equipmentxx" id="rent_price" name="rent_price" required  />
+            </div>           
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="rent-start">Rent Start</label>
+                    <input type="date" class="form-control equipmentxx" id="rent_start" name="rent_start" required />    
+                </div>           
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="rent-end">Rent End</label>
+                    <input type="date" class="form-control equipmentxx" id="rent_end" name="rent_end" required />    
+                </div>           
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label class="form-label " for="client_remarks">Remarks</label>
+                    <textarea class="form-control equipmentxx" id="client_remarks" name="client_remarks" rows="4" required></textarea>
+                </div>  
+            </div>
+            `
+        }else{  //==============SALE
+            divrentsale.innerHTML=`
+            <div class="row">
+            <div class="col">
+                <label for="client_po">PO Number</label>
+                <input type="text" style="text-transform: uppercase" id="client_po" name="client_po" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="client_invoice">Invoice Number</label>
+                <input type="text" style="text-transform: uppercase" id="client_invoice" name="client_invoice" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>            
+            <div class="row">
+            <div class="col">
+                <label for="client_name">Client Full Name</label>
+                <input type="text" style="text-transform: uppercase" id="client_name" name="client_name" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="company_name">Company Name</label>
+                <input type="text"  style="text-transform: uppercase" id="company_name" name="company_name" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="company_address">Company Address</label>
+                <input type="text" style="text-transform: uppercase" id="company_address" name="company_address" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="company_phone">Company Phone</label>
+                <input type="text" id="company_phone" name="company_phone" value="" placeholder="0917-123-1234" pattern="[0-9]{4}-[0-9]{3}-[0-9]{4}" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+            <div class="col">
+                <label for="company_email">Company Email</label>
+                <input type="email" style="text-transform: lowercase" id="company_email" name="company_email" value="" class="form-control equipmentxx" value=""  required/>
+            </div>           
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label for="sale-price">Sale Price</label>
+                    <input type="text" id="eqpt_id" name="eqpt_id" value="${aArrid}" class="lets-hide">
+                    <input type="text" id="trans_type" name="trans_type" value="sale" class="lets-hide">
+                    <input type="number" min=1000 step="0.01" placeholder="0.00" value="9999" class="form-control equipmentxx" id="sale_price" name="sale_price" required />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <label class="form-label " for="client_remarks">Remarks</label>
+                    <textarea class="form-control equipmentxx" id="client_remarks" name="client_remarks" rows="4" required></textarea>
+                </div>  
+            </div>
+            `
+        }    
+         //==load modal for tagging
+        util.loadModals('equipmentTagModal','equipmentTagForm','#equipmentTagForm','equipmentTagPlaceHolder') //PRE-LOAD MODALS)
+	    util.modalShow('equipmenttagmodal')
+
+        
+    },
+    */
+
+    //===========OPEN MODAL FOR CATEGORY OF SELECTED EQUIPMENT===========
+    showMallCategory:(cCategory,cTxt)=>{
+        console.log('showmallcategory()',cTxt)
+        if(cCategory==""){
+            return false
+        }
+        ///console.log('chosen is ', cCategory)
+        //off keyboard cofig
+        const configObj = { keyboard: false, backdrop:'static' }
+
+        const eqptcatmodal =  new bootstrap.Modal(document.getElementById('equipmentTypeModal'),configObj);
+            
+        let eqptcatModalEl = document.getElementById('equipmentTypeModal')
+
+        eqptcatModalEl.addEventListener('hide.bs.modal', function (event) {
+            
+            //take away alert
+            let cDiv = document.getElementById('equipmentTypePlaceHolder')
+            cDiv.innerHTML=""
+
+            //this is for the next element to have focus
+            //readonly field gets checked is-valid w/ chek icon
+            document.getElementById("mall_description").focus()
+            document.getElementById("mall_description").blur()
+
+            //then moves the next field with focus()
+            setTimeout(() => document.getElementById("business_name").focus(), 0)
+            
+        },false)
+        
+       document.getElementById('mall-label').innerHTML = "Select " + cTxt //cCategory 
+
+        //DOM reference for select
+        const categoryType = document.getElementById("categoryType");
+        
+        //reset select content
+        categoryType.innerHTML = ""
+
+        //get equipment type,
+        osndp.getMall(`https://localhost:10000/getmall/${cCategory}`, categoryType)
+
+        eqptcatmodal.show() /// show modal box
+
+    },
+
+
+    //=== FOR POPULATING DROPDOWN SELECT
+    populate:async ( selectElement, department )=>{
+        console.log( 'osndp.populate() ')
+        osndp.removeOptions( selectElement) //restart
+
+        let xurl
+                
+        switch(department){
+            case "design":
+                xurl = `https://localhost:10000/getProjectOwner/design` 
+            break
+            case "engineer":
+                xurl = `https://localhost:10000/getProjectOwner/engineer` 
+            break
+        }
+
+
+        await fetch( xurl )
+        .then(response => { 
+            return response.json()
+        })
+        .then( (data)=>{
+            console.log('populate',data)
+
+            let option = document.createElement("option")
+            option.setAttribute('value', "")
+            option.setAttribute('selected','selected')
+              
+            let optionText = document.createTextNode( "-- Pls Select --" )
+            option.appendChild(optionText)
+            
+            selectElement.appendChild(option)
+            
+            for (let key in data.result) {
+                let option = document.createElement("option")
+                option.setAttribute('value', data.result[key].full_name.toUpperCase())
+              
+                let optionText = document.createTextNode( data.result[key].full_name.toUpperCase() )
+                option.appendChild(optionText)
+              
+                selectElement.appendChild(option)
+            }
+
+            selectElement.focus()
+        
+        }) 
+        .catch(error => { 
+            console.log("An error occurred: ", error); 
+        })        
+
+    },
+    
+    removeOptions: (selectElement) => {
+        var i, L = selectElement.options.length - 1;
+        for(i = L; i >= 0; i--) {
+           selectElement.remove(i);
+        }
+    },
+
+    //===get Malls
+    //esp getting values for SELECT DROPDOWNS
+    getMall:(url,cSelect)=>{
+
+        fetch(url)
+        .then((response) => {  //promise... then 
+            return response.json();
+        })
+        .then((data) => {
+            //console.log( 'webmall ',data )
+            
+            osndp.removeOptions( cSelect)
+
+            let option = document.createElement("option")
+            option.setAttribute('value', "")
+            option.setAttribute('selected','selected')
+              
+            let optionText = document.createTextNode( "-- Pls Select --" )
+            option.appendChild(optionText)
+            
+            cSelect.appendChild(option)
+            
+
+            for (let key in data.result) {
+                let option = document.createElement("option")
+                option.setAttribute('value', data.result[key].mall_name)
+              
+                let optionText = document.createTextNode( data.result[key].mall_name )
+                option.appendChild(optionText)
+              
+                cSelect.appendChild(option)
+            }
+
+            cSelect.focus()
+            
+        })
+        .catch((error) => {
+            util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })
+    },
+        
+    updateMallDesc:(optionValue)=>{
+        //dom reference
+        //eqptdesc.focus()
+        
+        const eqptdesc = document.getElementById('mall_description')
+        eqptdesc.value = optionValue
+        
+        
+       // document.getElementById("business_name").focus()
+    },
+
+
+    //filter mall
+    filterMall:(url,cSelect)=>{
+        console.log('===filterMall() osndp.filterMall()===')
+        fetch(url)
+        .then((response) => {  //promise... then 
+            return response.json();
+        })
+        .then((data) => {
+            //console.log( 'webmall ',data )
+            
+            osndp.removeOptions( cSelect)
+            /* TAKE OUT PLS SELECT VALUE
+            let option = document.createElement("option")
+            option.setAttribute('value', "")
+            //option.setAttribute('selected','selected')
+              
+            let optionText = document.createTextNode( "-- Pls Select --" )
+            option.appendChild(optionText)
+          
+            cSelect.appendChild(option)
+            */
+
+            for (let key in data.result) {
+                let option = document.createElement("option")
+                option.setAttribute('value', data.result[key].unique_id)
+              
+                let optionText = document.createTextNode( data.result[key].mall_name )
+                option.appendChild(optionText)
+              
+                cSelect.appendChild(option)
+            }
+
+            cSelect.focus()
+            
+        })
+        .catch((error) => {
+            util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })
+    },
+
+    //===============filter method
+    filterBy:(val)=>{
+
+        //==========Filter By====
+        
+        console.log('==filterBy()===', val )
+
+        osndp.getAll("1", val )
+        ///// temporarily out osndp.fetchBadgeData()
+    },
+
+    //===== get transaction if rent or sale
+    getTransact:(ctype)=>{
+        const configObj = { keyboard: false, backdrop:'static' }
+        const transModal =  new bootstrap.Modal(document.getElementById('msgModal'),configObj);
+        
+        const msg = document.getElementById('xmsg4')
+        msg.innerHTML = `Are you sure this is for ${ctype.toUpperCase()}?`
+        transModal.show()
+        
+    },
+
+    //===========for socket.io
+    getMsg:()=>{
+        console.log( '====getMsg()=== ')
+        
+        /*
+        osndp.socket.on('sales', (oMsg) => {
+            let xmsg = JSON.parse(oMsg)
+
+            util.speak( xmsg.msg )
+
+            ///// temporarily out   osndp.fetchBadgeData()// update badges
+        
+        })
+          */  
+        
+    },
+    //=======check file size before upload
+    //for now acceptable is 2mb max
+    checkFileSize:()=>{
+        const fi = document.getElementById('uploaded_file');
+        // Check if any file is selected.
+        if (fi.files.length > 0) {
+            for (let i = 0; i <= fi.files.length - 1; i++) {
+
+                const fsize = fi.files.item(i).size;
+                const file = Math.round((fsize / 1024));
+                // The size of the file.
+                if (file >= 1000) {
+                    const btnupload = document.getElementById('mall-save-btn')
+                    btnupload.disabled = true
+
+                    util.alertMsg("File too Big, please select a file less than 1mb","danger","size");
+                    
+                    fi.value=null
+                    //go bottom page
+                    util.scrollsTo('blindspot')
+
+                    return false;
+
+                }else{
+                    
+                    document.getElementById('size').innerHTML=""//reset
+                    const btnupload = document.getElementById('mall-save-btn')
+                    btnupload.disabled = false
+                }
+                /* turn off display of filesize */
+                ///document.getElementById('size').innerHTML ='<b>'+ file + '</b> KB';
+                
+            }
+        }
+    },
+
+    //======main func get all Claims per person =====
+    getClaims: async (emp_id, emp_name)=>{
+        console.log('==running getClaims()')
+        
+        await fetch(`${myIp}/getclaims/${emp_id}/${emp_name}/3/${nPage}`,{
+            cache:'reload'
+        })
+        .then(res => res.text() )
+
+        .then(text => {	
+        
+            util.scrollsTo('current_projects')
+        })	
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+    },
+
+    notif:(msg,xclear)=>{
+        if(!xclear){
+            document.getElementById('p-notif').innerHTML = `<i id='i-notif' class='fa fa-spinner fa-pulse' ></i>
+            &nbsp;<span id='s-notif'>${msg}</span>`
+        }else{
+            document.getElementById('p-notif').innerHTML = ""
+        }
+        
+    },
+
+    speaks:null,
+
+    collapz: () =>{
+        if( ! document.getElementById("sidebarCollapse") ){
+            //document.getElementById('filter_number').focus()
+        }else{
+            document.getElementById("sidebarCollapse").click()
+            document.getElementById('filter_number').focus()
+        }
+        /// take out muna document.getElementById("sidebarCollapse").click()
+        //focus on emp number claims filter
+    },
+
+    getRecord: (e_num,e_name) =>{
+        let xmsg
+        
+        asn.speaks('Searching...')
+
+        if(e_num=="" && e_name==""){
+            console.log('both blank')
+            xmsg = "<div class='text-wrap' style='width: 20rem;'>PLS CHECK YOUR INPUT, YOU CAN SEARCH BY EMPLOYEE NUMBER OR BY EMPLOYEE NAME!</div>"
+            Toastify({
+                text: xmsg ,
+                duration:6000,
+                escapeMarkup:false, //to create html
+                close:false,
+                position:'center',
+                offset:{
+                    x: 0,
+                    y:100//window.innerHeight/2 // vertical axis - can be a number or a string indicating unity. eg: '2em'
+                },
+                style: {
+                  background: "linear-gradient(to right, #00b09b, #96c93d)",
+                }
+            }).showToast();
+            return false
+        
+        }
+
+        let xclass = [], aForm = ['filter_number','filter_name']
+        xclass.push(document.getElementById('filter_number').className ) 
+        xclass.push(document.getElementById('filter_name').className)
+
+        let nn = xclass.indexOf('form-control is-invalid')
+        
+        if ( nn > -1 ){
+            xmsg = "<div class='text-wrap' style='width: 20rem;'>PLS CHECK YOUR INPUT, THERE'S ERROR!</div>"
+            Toastify({
+                text: xmsg ,
+                duration:3000,
+                escapeMarkup:false, //to create html
+                close:false,
+                position:'center', 
+                offset:{
+                    x: 0,
+                    y:100//window.innerHeight/2 // vertical axis - can be a number or a string indicating unity. eg: '2em'
+                },
+                style: {
+                    background: "linear-gradient(to right, #00b09b, #96c93d)",
+                }
+            }).showToast();
+
+            document.getElementById( aForm[nn] ).classList.remove('is-invalid')
+            document.getElementById( aForm[nn] ).value=""
+
+            return false         
+        }else{
+            console.log('redy to search')
+            let xurl = ""
+            if(e_num!=="" && e_name==""){
+                xurl = `${myIp}/getrecord/${e_num}/blank/${util.getCookie('f_email')}` 
+            }else if (e_num=="" && e_name!==""){
+                xurl = `${myIp}/getrecord/blank/${e_name}/${util.getCookie('f_email')}` 
+            }else{
+                xurl = `${myIp}/getrecord/${e_num}/${e_name}/${util.getCookie('f_email')}` 
+            }
+
+            fetch( xurl ,{
+                cache:'reload'
+            })
+            .then(res => res.text() )
+
+            .then(text => {	
+            //    // console.log('what the text? ',text)
+            //     osndp.notif('',true)
+                let divchild = `   
+                    <div class="row">
+                    <div class="col-lg-8 d-flex ">
+                    <div class="card w-100">
+                        <div class="card-body p-4">
+                        <div class="mb-4">
+                            <h5 class="card-title fw-semibold"><i style="color:green;font-size:25px;" class="ti ti-list-search"></i>&nbsp;Search Result</h5>
+                        </div>
+                        <div id="claim_search">
+        
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    </div>`
+
+                document.getElementById('search_claim' ).classList.add('container-fluid')
+                document.getElementById('search_claim' ).classList.add('ms-3')
+                
+                document.getElementById('search_claim').innerHTML = divchild
+
+                document.getElementById('claim_search').innerHTML = ""
+                document.getElementById('claim_search').innerHTML = text
+            //     document.getElementById('project-badge').innerHTML = parseInt(document.getElementById('reccount').innerHTML)
+            //     console.log( '**rec count** ',document.getElementById('reccount').innerHTML)
+                
+                util.scrollsTo('search_claim')
+
+                //asn.getTopRider()
+            
+            })	
+            .catch((error) => {
+                //util.Toast(`Error:, ${error}`,1000)
+                console.error('Error:', error)
+            })    
+        }///eif
+    },
+
+    //===== check if pdf is already produced or not, if produced, don't download again
+    checkpdf: (e_num)=> {
+        
+        asn.speaks('DOWNLOADING PDF PLEASE WAIT!')
+
+        fetch(`${myIp}/checkpdf/${e_num}`,{
+            cache:'reload'
+        })
+        .then(response => {  
+            return response.json()
+        })
+        .then( data => {
+            if(data.status){
+                //print if not created
+                asn.createpdf(e_num,data.batch)
+                asn.speaks('Creating PDF...')
+            }else{
+
+                asn.speaks(`ERROR! ATD ALREADY DOWNLOADED WITH BATCH ${data.batch}`)
+                Toastify({
+                    text: `ERROR! ATD ALREADY DOWNLOADED WITH BATCH ${data.batch}`,
+                    duration:6000,
+                    escapeMarkup:false, //to create html
+                    close:false,
+                    position:'center',
+                    offset:{
+                        x: 0,
+                        y:100//window.innerHeight/2 // vertical axis - can be a number or a string indicating unity. eg: '2em'
+                    },
+                    style: {
+                      background: "linear-gradient(to right, #00b09b, #96c93d)",
+                    }
+                }).showToast();
+    
+            }
+
+            return true
+        })
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        }) 
+    },
+
+    //===============download report
+    createpdf: (e_num, batch) =>{
+        fetch(`${myIp}/createpdf/${e_num}/${batch}`,{
+            cache:'reload'
+        })
+        .then(response => { 
+            return response.blob()
+            // Get the content type from the response headers
+            /*
+            const contentType = response.headers.get('Content-Type');
+
+            if (contentType && contentType.includes('application/json')) {
+                return response.json();
+            } else if (contentType && contentType.includes('image/') || contentType.includes('application/octet-stream')) {
+                return response.blob();
+            } else {
+                throw new Error('Unsupported content type: ' + contentType);
+            }
+                */
+        })
+        .then(blob => {
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `ASN_${e_num}.pdf`; // Set the file name for the download
+            document.body.appendChild(a);
+            a.click();
+            a.remove();
+            window.URL.revokeObjectURL(url); // Clean up the URL object
+
+            asn.deletepdf( e_num ) //cleanup pdf
+
+            Toastify({
+                text: 'PDF Ready for Download!!!' ,
+                duration:3000,
+                escapeMarkup:false, //to create html
+                close:false,
+                position:'center',
+                offset:{
+                    x: 0,
+                    y:100//window.innerHeight/2 // vertical axis - can be a number or a string indicating unity. eg: '2em'
+                },
+                style: {
+                  background: "linear-gradient(to right, #00b09b, #96c93d)",
+                }
+            }).showToast();
+            
+            return true
+
+            //delete pdf
+        })
+       
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+
+    },
+
+    //==== cleanup
+    deletepdf:(e_num) =>{
+        fetch(`${myIp}/deletepdf/${e_num}`,{
+            cache:'reload'
+        })
+        .then(response => { 
+            return response.json()
+        })
+        .then( (data ) => {
+            if(data.status){
+                Toastify({
+                    text: 'PDF Ready for Download!!!' ,
+                    duration:3000,
+                    escapeMarkup:false, //to create html
+                    close:false,
+                    position:'center',
+                    offset:{
+                        x: 0,
+                        y:100//window.innerHeight/2 // vertical axis - can be a number or a string indicating unity. eg: '2em'
+                    },
+                    style: {
+                      background: "linear-gradient(to right, #00b09b, #96c93d)",
+                    }
+                }).showToast();
+    
+            }
+            
+        })
+       
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+
+
+    },
+
+    //==get top 5 hub pasaway
+    getTopHub: async()=>{
+
+        let xparam = ""
+
+        if(util.getCookie('grp_id')=="2"){
+            xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}`    
+        }else{
+
+        }//eif
+
+        await fetch(`${myIp}/gethub${xparam}`,{
+            cache:'reload'
+        })
+        .then(res => res.text() )
+
+        .then(text => {	
+        //    // console.log('what the text? ',text)
+        //     osndp.notif('',true)
+            document.getElementById('hub').innerHTML = ""
+            document.getElementById('hub').innerHTML = text
+        //     document.getElementById('project-badge').innerHTML = parseInt(document.getElementById('reccount').innerHTML)
+        //     console.log( '**rec count** ',document.getElementById('reccount').innerHTML)
+            
+            util.scrollsTo('hub')
+
+            asn.getTopRider()
+        
+        })	
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+    },
+    // get top 5 rider pasaway
+    getTopRider: async() => {
+
+        let xparam = ""
+
+        if(util.getCookie('grp_id')=="2"){
+            xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}` 
+        }else{
+
+        }//eif
+
+        await fetch(`${myIp}/getrider${xparam}`,{
+            cache:'reload'
+        })
+        .then(res => res.text() )
+
+        .then(text => {	
+        //    // console.log('what the text? ',text)
+        //     osndp.notif('',true)
+            document.getElementById('rider').innerHTML = ""
+            document.getElementById('rider').innerHTML = text
+        //     document.getElementById('project-badge').innerHTML = parseInt(document.getElementById('reccount').innerHTML)
+        //     console.log( '**rec count** ',document.getElementById('reccount').innerHTML)
+            
+            util.scrollsTo('claimsupdate')
+            asn.getClaimsUpdate()
+       
+        })	
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+    },
+
+
+    // get top 5 rider pasaway
+    getClaimsUpdate: async() => {
+
+        let xparam = ""
+
+        if(util.getCookie('grp_id')=="2"){
+           xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}`    
+        }else{
+
+        }//eif
+
+        await fetch(`${myIp}/claimsupdate${xparam}`,{
+            cache:'reload'
+        })
+        .then(res => res.text() )
+
+        .then(text => {	
+            
+            const myul = document.getElementById('claimsupdate')
+            
+            myul.innerHTML = text
+            
+            console.log( text)
+            console.log('claims total', document.getElementById('gxtotal').value)
+            
+            document.getElementById('xgtotal').innerHTML= `Claims Recent Transaction 
+                <span class='text-primary fw-semibold'>P ${document.getElementById('gxtotal').value} </span>`
+
+            util.scrollsTo('current_projects')
+        
+        })	
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+    },
+
+    //get pie chart comparison of
+    // with ATD and no ATDs
+    getAtdUpdate: async() =>{
+        await fetch(`${myIp}/atdupdate`,{
+            cache:'reload'
+        })
+        .then(res => res.json() )
+
+        .then(data => {	
+            
+            const myul = document.getElementById('claimsupdate')
+            
+            myul.innerHTML = text
+                        
+            console.log( text)
+            console.log('claims total', document.getElementById('gxtotal').value)
+            
+            document.getElementById('xgtotal').innerHTML= `Claims Recent Transaction 
+                <span class='text-primary fw-semibold'>P ${document.getElementById('gxtotal').value} </span>`
+
+            util.scrollsTo('current_projects')
+        
+        })	
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+    },
+
+	//==,= main run
+	init : async () => {
+        if(util.getCookie('grp_id')=="2"){
+            //turn off link
+            asn.getTopHub()
+        }else{
+            document.getElementById('claims_pasaways').innerHTML = ""
+        }
+        
+		//change form action 
+		//document.getElementById('claimsuploadForm').action=`${myIp}/claims`
+        document.getElementById('claimsuploadForm').action=`${myIp}/xlsclaims` //change also in util.modalListeners()
+        
+		//change form action 
+		document.getElementById('uploadForm').action=`${myIp}/postimage`
+
+        asn.speaks = (txt) =>{
+            let speechsynth = new SpeechSynthesisUtterance();
+            speechsynth.text = txt
+            speechsynth.lang = "en-US"
+            speechSynthesis.speak( speechsynth )
+        };    
+        //yes
+
+        let authz = []
+        authz.push(util.getCookie('grp_id') )
+        authz.push(util.getCookie('fname'))
+        
+        console.log(authz[1])
+
+        //==HANDSHAKE FIRST WITH SOCKET.IO
+        const userName = { token : authz[1] , mode: 1}//full name token
+
+        asn.socket = io.connect(`${myIp}`, {            //withCredentials: true,
+            query:`userName=${JSON.stringify(userName)}`
+            // extraHeaders: {
+            //   "osndp-header": "osndp"
+            // }
+        });//========================initiate socket handshake ================
+            
+        console.log('main.js SPEAK()')
+        asn.speaks(  util.getCookie('f_voice')) //==FIRST welcome GREETING HERE ===
+
+         //===first call load page 1
+         //console.log('first osndp.getAll() index.js')
+         //osndp.getAll("1","MALL001")
+        
+         document.getElementById('img-profile').src=`/assets/images/profile/${util.getCookie('f_pic')}`
+        //pyright
+       ////document.getElementById('copyright').innerHTML='Copyright Â© EO-OSNDP '+ new Date().getFullYear();
+
+        //UPDATE DROPDOWN FOR FILTER
+        //get equipment type,
+        //osndp.filterMall(`https://localhost:10000/filtermall`, document.getElementById('filter_type'))
+        
+        //asn.getVoice()
+
+        //load the form to validate
+        util.loadFormValidation('#newempForm')
+        util.loadFormValidation('#searchForm')
+        
+        //load listeners
+        util.modalListeners('claimsModal')
+        util.modalListeners('newempModal')
+
+        console.log('ola')
+
+	}//END init
+} //======================= end admin obj==========//
+//osndp.Bubbl
+window.scrollTo(0,0);
+asn.init()
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    // let bgimage = ['asiaone1.png', 'bgrnd.png']
+    // let xx = Math.floor(Math.random() * 2);
+
+    // document.getElementById('myBody').style.backgroundImage = `url('/assets/images/backgrounds/${bgimage[xx] }')`
+    //   setTimeout(() => {
+    //       const audio  = new Audio('intro.mp3')
+    //       audio.play().catch(error => {
+    //           console.error("Audio playback failed:", error);
+    //       });
+    //       document.getElementById('myCard').classList.add('show');
+    //   }, 2000); // Delay of 1000 milliseconds (1 second)
+
+
+});
+
+  

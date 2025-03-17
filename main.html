@@ -74,7 +74,7 @@
                 <span>
                   <i class="ti ti-file-spreadsheet"></i>
                 </span>
-                <span class="hide-menu">Upload Excel CSV File</span>
+                <span class="hide-menu">Upload Excel File</span>
               
               </a>
             </li>
@@ -115,14 +115,14 @@
 
             <li class="nav-small-cap">
               <i class="ti ti-dots nav-small-cap-icon fs-4"></i>
-              <span class="hide-menu">AUTH</span>
+              <span class="hide-menu">ACCESS</span>
             </li>
             <li class="sidebar-item">
               <a class="sidebar-link" href="./" aria-expanded="false">
                 <span>
-                  <i class="ti ti-login"></i>
+                  <i class="ti ti-logout"></i>
                 </span>
-                <span class="hide-menu">Login</span>
+                <span class="hide-menu">Logout</span>
               </a>
             </li>
 <!--             
@@ -222,7 +222,7 @@
       <!--//CURRENT PROJECTS//-->
       <div class="container-fluid" id="current_projects">
         <div class=" mb-2 mt-3 sm-0 ms-2">
-          <h5 class="card-title fw-semibold"><i style="color:green;font-size:25px;" class="ti ti-user-exclamation"></i>&nbsp;Claims</h5>
+          <h5 class="card-title fw-semibold"><i style="font-size:25px;" class="ti ti-user-exclamation text-primary"></i>&nbsp;Claims</h5>
         </div>
 
         <!-- for to act as "row" -->
@@ -257,7 +257,7 @@
           <div class="col-sm-2 align-self-start">
           <div class="form-outline">
             <button class="btn btn-primary"  id="search-btn" onclick="javascript:asn.getRecord(`${document.getElementById('filter_number').value}`,`${document.getElementById('filter_name').value}`)" type="button">
-              <i id="i-save" class="ti ti-file-search"></i> Search
+              <i id="i-save" class="ti ti-file-search"></i> &nbsp;&nbsp; Search
             </button>
           </div>
         </div>
@@ -267,35 +267,67 @@
       </div> 
       <!-- end container fluid -->
 
-      <div id="search_claim"></div>
+      <!-- ENTER SEARCH RESULT HERE -->
+      <div id="search_claim"></div> 
+ 
 
-
-      <!--//=================top 10 -->
-      <div class="container-fluid" id="claim_pasaways">
+      <!--//=== ENTER TOP 10 HUB/RIDER HERE==== -->
+      <div class="container-fluid" id="claims_pasaways">
         
         <div class="row ">
-          <div class="col-lg-6 d-flex align-items-start">
-            <div class="card w-100">
-              <div class="card-body p-4">
-                <div class="mb-4">
-                  <h5 class="card-title fw-semibold"><i style="color:green;font-size:25px;" class="ti ti-home"></i>&nbsp;Top 5 Hub</h5>
-                </div>
-                <div id="hub">
-
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- employee -->
+          
+          <!-- RIDERS INFO -->
           <div class="col-lg-6 d-flex align-items-start">
             <div class="card w-100">
               <div class="card-body p-4">
                 <div class="mb-4">
                   <h5 class="card-title fw-semibold"><i style="color:green;font-size:25px;" class="ti ti-moped"></i>&nbsp;Top 5 Rider</h5>
                 </div>
-                <div id="rider">
+                <div id="rider" class="table-responsive">
                 </div> 
+                
+              </div>
+            </div>
+          </div>
+          
+          <!--//HUB INFO -->
+          <div class="col-lg-6 d-flex align-items-start">
+            <div class="card w-100">
+              <div class="card-body p-4">
+                <div class="mb-4">
+                  <h5 class="card-title fw-semibold"><i style="color:green;font-size:25px;" class="ti ti-home"></i>&nbsp;Top 5 Hub</h5>
+                </div>
+                <div id="hub" class="table-responsive">
+
+                </div> 
+              </div>
+            </div>
+          </div>
+
+      </div>  
+      <!-- END ROW -->
+
+      <!-- ===ENTER CLAIMS UPDATE===//-->
+      <div class="row">
+        <div class="col-lg-6 d-flex align-items-stretch">
+          <div class="card w-100">
+            <div class="card-body p-4">
+              <div class="mb-4">
+                <h5  id='xgtotal' name="xgtotal" class="card-title fw-semibold"></h5>
+              </div>
+              <ul id='claimsupdate' class="timeline-widget mb-0 position-relative mb-n5">
+              
+            </div>
+          </div>
+        </div>
+        <!-- =====chart ========-->
+        <div class="col-lg-6 d-flex align-items-stretch">
+          <div class="card w-100">
+            <div class="card-body p-4">
+              <div class="mb-4">
+                <h5 class="card-title fw-semibold"></h5>
+              </div>
+              <div id="piechart">
                 
               </div>
             </div>
@@ -303,255 +335,7 @@
         </div>
       </div>
 
-      <!--//====================CHARTS-->
-      <div class="container-fluid" id="dashboard">
-
-        <!--  Row 1 -->
-        <div class="row">
-          <div class="col-lg-8 d-flex align-items-strech">
-            <div class="card w-100">
-              <div class="card-body">
-                <div class="d-sm-flex d-block align-items-center justify-content-between mb-9">
-                  <div class="  mb-sm-0">
-                    <h5 class="card-title fw-semibold">Sales Overview</h5>
-                  </div>
-                  <div>
-                    <select class="form-select">
-                      <option value="1">March 2023</option>
-                      <option value="2">April 2023</option>
-                      <option value="3">May 2023</option>
-                      <option value="4">June 2023</option>
-                    </select>
-                  </div>
-                </div>
-                <div id="chart"></div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="row">
-              <div class="col-lg-12">
-                <!-- Yearly Breakup -->
-                <div class="card overflow-hidden">
-                  <div class="card-body p-4">
-                    <h5 class="card-title mb-9 fw-semibold">Yearly Breakup</h5>
-                    <div class="row align-items-center">
-                      <div class="col-8">
-                        <h4 class="fw-semibold  ">$36,358</h4>
-                        <div class="d-flex align-items-center  ">
-                          <span
-                            class="me-1 rounded-circle bg-light-success round-20 d-flex align-items-center justify-content-center">
-                            <i class="ti ti-arrow-up-left text-success"></i>
-                          </span>
-                          <p class="text-dark me-1 fs-3 mb-0">+9%</p>
-                          <p class="fs-3 mb-0">last year</p>
-                        </div>
-                        <div class="d-flex align-items-center">
-                          <div class="me-4">
-                            <span class="round-8 bg-primary rounded-circle me-2 d-inline-block"></span>
-                            <span class="fs-2">2023</span>
-                          </div>
-                          <div>
-                            <span class="round-8 bg-light-primary rounded-circle me-2 d-inline-block"></span>
-                            <span class="fs-2">2023</span>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-4">
-                        <div class="d-flex justify-content-center">
-                          <div id="breakup"></div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-12">
-                <!-- Monthly Earnings -->
-                <div class="card">
-                  <div class="card-body">
-                    <div class="row alig n-items-start">
-                      <div class="col-8">
-                        <h5 class="card-title mb-9 fw-semibold"> Monthly Earnings </h5>
-                        <h4 class="fw-semibold  ">$6,820</h4>
-                        <div class="d-flex align-items-center pb-1">
-                          <span
-                            class="me-2 rounded-circle bg-light-danger round-20 d-flex align-items-center justify-content-center">
-                            <i class="ti ti-arrow-down-right text-danger"></i>
-                          </span>
-                          <p class="text-dark me-1 fs-3 mb-0">+9%</p>
-                          <p class="fs-3 mb-0">last year</p>
-                        </div>
-                      </div>
-                      <div class="col-4">
-                        <div class="d-flex justify-content-end">
-                          <div
-                            class="text-white bg-secondary rounded-circle p-6 d-flex align-items-center justify-content-center">
-                            <i class="ti ti-currency-dollar fs-6"></i>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div id="earning"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 d-flex align-items-stretch">
-            <div class="card w-100">
-              <div class="card-body p-4">
-                <div class="mb-4">
-                  <h5 class="card-title fw-semibold">Recent Transactions</h5>
-                </div>
-                <ul class="timeline-widget mb-0 position-relative mb-n5">
-                  <li class="timeline-item d-flex position-relative overflow-hidden">
-                    <div class="timeline-time text-dark flex-shrink-0 text-end">09:30</div>
-                    <div class="timeline-badge-wrap d-flex flex-column align-items-center">
-                      <span class="timeline-badge border-2 border border-primary flex-shrink-0 my-8"></span>
-                      <span class="timeline-badge-border d-block flex-shrink-0"></span>
-                    </div>
-                    <div class="timeline-desc fs-3 text-dark mt-n1">Payment received from John Doe of $385.90</div>
-                  </li>
-                  <li class="timeline-item d-flex position-relative overflow-hidden">
-                    <div class="timeline-time text-dark flex-shrink-0 text-end">10:00 am</div>
-                    <div class="timeline-badge-wrap d-flex flex-column align-items-center">
-                      <span class="timeline-badge border-2 border border-info flex-shrink-0 my-8"></span>
-                      <span class="timeline-badge-border d-block flex-shrink-0"></span>
-                    </div>
-                    <div class="timeline-desc fs-3 text-dark mt-n1 fw-semibold">New sale recorded <a
-                        href="javascript:void(0)" class="text-primary d-block fw-normal">#ML-3467</a>
-                    </div>
-                  </li>
-                  <li class="timeline-item d-flex position-relative overflow-hidden">
-                    <div class="timeline-time text-dark flex-shrink-0 text-end">12:00 am</div>
-                    <div class="timeline-badge-wrap d-flex flex-column align-items-center">
-                      <span class="timeline-badge border-2 border border-success flex-shrink-0 my-8"></span>
-                      <span class="timeline-badge-border d-block flex-shrink-0"></span>
-                    </div>
-                    <div class="timeline-desc fs-3 text-dark mt-n1">Payment was made of $64.95 to Michael</div>
-                  </li>
-                  <li class="timeline-item d-flex position-relative overflow-hidden">
-                    <div class="timeline-time text-dark flex-shrink-0 text-end">09:30 am</div>
-                    <div class="timeline-badge-wrap d-flex flex-column align-items-center">
-                      <span class="timeline-badge border-2 border border-warning flex-shrink-0 my-8"></span>
-                      <span class="timeline-badge-border d-block flex-shrink-0"></span>
-                    </div>
-                    <div class="timeline-desc fs-3 text-dark mt-n1 fw-semibold">New sale recorded <a
-                        href="javascript:void(0)" class="text-primary d-block fw-normal">#ML-3467</a>
-                    </div>
-                  </li>
-                  <li class="timeline-item d-flex position-relative overflow-hidden">
-                    <div class="timeline-time text-dark flex-shrink-0 text-end">09:30 am</div>
-                    <div class="timeline-badge-wrap d-flex flex-column align-items-center">
-                      <span class="timeline-badge border-2 border border-danger flex-shrink-0 my-8"></span>
-                      <span class="timeline-badge-border d-block flex-shrink-0"></span>
-                    </div>
-                    <div class="timeline-desc fs-3 text-dark mt-n1 fw-semibold">New arrival recorded 
-                    </div>
-                  </li>
-                  <li class="timeline-item d-flex position-relative overflow-hidden">
-                    <div class="timeline-time text-dark flex-shrink-0 text-end">12:00 am</div>
-                    <div class="timeline-badge-wrap d-flex flex-column align-items-center">
-                      <span class="timeline-badge border-2 border border-success flex-shrink-0 my-8"></span>
-                    </div>
-                    <div class="timeline-desc fs-3 text-dark mt-n1">Payment Done</div>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-
-        </div>
-        
-        <!-- <div class="row">
-          <div class="col-sm-6 col-xl-3">
-            <div class="card overflow-hidden rounded-2">
-              <div class="position-relative">
-                <a href="javascript:void(0)"><img src="../assets/images/products/s4.jpg" class="card-img-top rounded-0" alt="..."></a>
-                <a href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>                      </div>
-              <div class="card-body pt-3 p-4">
-                <h6 class="fw-semibold fs-4">Boat Headphone</h6>
-                <div class="d-flex align-items-center justify-content-between">
-                  <h6 class="fw-semibold fs-4 mb-0">$50 <span class="ms-2 fw-normal text-muted fs-3"><del>$65</del></span></h6>
-                  <ul class="list-unstyled d-flex align-items-center mb-0">
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-xl-3">
-            <div class="card overflow-hidden rounded-2">
-              <div class="position-relative">
-                <a href="javascript:void(0)"><img src="../assets/images/products/s5.jpg" class="card-img-top rounded-0" alt="..."></a>
-                <a href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>                      </div>
-              <div class="card-body pt-3 p-4">
-                <h6 class="fw-semibold fs-4">MacBook Air Pro</h6>
-                <div class="d-flex align-items-center justify-content-between">
-                  <h6 class="fw-semibold fs-4 mb-0">$650 <span class="ms-2 fw-normal text-muted fs-3"><del>$900</del></span></h6>
-                  <ul class="list-unstyled d-flex align-items-center mb-0">
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-xl-3">
-            <div class="card overflow-hidden rounded-2">
-              <div class="position-relative">
-                <a href="javascript:void(0)"><img src="../assets/images/products/s7.jpg" class="card-img-top rounded-0" alt="..."></a>
-                <a href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>                      </div>
-              <div class="card-body pt-3 p-4">
-                <h6 class="fw-semibold fs-4">Red Valvet Dress</h6>
-                <div class="d-flex align-items-center justify-content-between">
-                  <h6 class="fw-semibold fs-4 mb-0">$150 <span class="ms-2 fw-normal text-muted fs-3"><del>$200</del></span></h6>
-                  <ul class="list-unstyled d-flex align-items-center mb-0">
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-6 col-xl-3">
-            <div class="card overflow-hidden rounded-2">
-              <div class="position-relative">
-                <a href="javascript:void(0)"><img src="../assets/images/products/s11.jpg" class="card-img-top rounded-0" alt="..."></a>
-                <a href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>                      </div>
-              <div class="card-body pt-3 p-4">
-                <h6 class="fw-semibold fs-4">Cute Soft Teddybear</h6>
-                <div class="d-flex align-items-center justify-content-between">
-                  <h6 class="fw-semibold fs-4 mb-0">$285 <span class="ms-2 fw-normal text-muted fs-3"><del>$345</del></span></h6>
-                  <ul class="list-unstyled d-flex align-items-center mb-0">
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="me-1" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                    <li><a class="" href="javascript:void(0)"><i class="ti ti-star text-warning"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="py-6 px-6 text-center">
-          <p class="mb-0 fs-4">Design and Developed by <a href="https://adminmart.com/" target="_blank" class="pe-1 text-primary text-decoration-underline">AdminMart.com</a></p>
-        </div> -->
-      </div>
+    
       <!--//END CHARTS-->
     </div>
     <!--//END BODY-WRAPPER-->
@@ -812,7 +596,7 @@
             <div class="modal-footer">
                 <button class="btn btn-light" type="button" data-bs-dismiss="modal">Close</button>
                 <button class="btn btn-primary" id="mall-save-btn" onclick="javascript:util.validateMe('newsiteModal','#newsiteForm','equipmentx')" type="button">
-                <i id="i-save" class="fa fa-floppy-o"></i> Save
+                <i id="i-save" class="fa fa-floppy-o"></i> &nbsp;&nbsp; Save
                 </button>
             </div>
         </div>
@@ -927,7 +711,7 @@
                         <div class="btn-group" role="group" aria-label="Basic example">
                           <button class="btn btn-light custom" type="button" data-bs-dismiss="modal">Close</button>
                           <button class="btn btn-primary custom" id="comment-save-btn" onclick="javascript:util.validateMe('commentsModal','#commentsForm','equipmentx')" type="button">
-                          <i id="i-save" class="fa fa-floppy-o"></i> Save
+                          <i id="i-save" class="fa fa-floppy-o"></i>&nbsp;&nbsp;  Save
                           </button>
                         </div>
                       </div>
@@ -990,7 +774,7 @@
       </div>
   </div>					
 
-  <!--//Modal for adding New Site //-->
+  <!--//Modal for adding CLAIMS //-->
 <div class="modal fade" id="claimsModal" tabindex="-1" aria-labelledby="claimsModalLabel" aria-hidden="true">
   <div class="modal-dialog  modal-dialog-scrollable">
       <div class="modal-content">
@@ -1013,8 +797,8 @@
                       <!-- //form file upload onrender.com -->
                       <form id="claimsuploadForm" name="claimsuploadForm" action="" enctype="multipart/form-data" method="post">
                         <div class="form-outline">
-                          <label class="form-label mb-0" for="claims_upload_file">Upload Excel CSV File</label>
-                          <input type="file" class="form-control uploadz mb-2" name="claims_upload_file" id="claims_upload_file" accept=".csv" required />
+                          <label class="form-label mb-0" for="claims_upload_file">Upload Excel File</label>
+                          <input type="file" class="form-control uploadz mb-2" name="claims_upload_file" id="claims_upload_file" accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel" required />
 
                           <button id="claims-upload-btn" name="claims-upload-btn" type="submit" class="btn btn-primary">
                             <i class="ti ti-upload"></i> Upload
@@ -1140,7 +924,7 @@
           <div class="modal-footer">
               <button class="btn btn-light" type="button" data-bs-dismiss="modal">Close</button>
               <button class="btn btn-primary" id="mall-save-btn" onclick="javascript:util.validateMe('newempModal','#newempForm','201')" type="button">
-              <i id="i-save" class="fa fa-floppy-o"></i> Save
+              <i id="i-save" class="fa fa-floppy-o"></i> &nbsp;&nbsp; Save
               </button>
           </div>
       </div>
@@ -1165,14 +949,19 @@
   <!-- toastify -->
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
 
-  <!-- <script src="http://192.168.168.221:10000/socket.io/socket.io.js"></script> -->
-
+  <!-- offline version -->
+  <!-- <script src="http://192.168.201.221:10000/socket.io/socket.io.js"></script>
+   -->
   <!-- //online version -->
   <script src="https://asn-api.onrender.com/socket.io/socket.io.js"></script>
   
-  <script src="assets/js/util.js"></script>
-  <script src="assets/js/main.js"></script>
   
+   <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script>
+
+
+  </script>
 </body>
 
 </html>
