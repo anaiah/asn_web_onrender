@@ -6,9 +6,8 @@ this is for utilities
 modals,forms,utilities
 
 */ 
-//const myIp = "https://asn-api.onrender.com" 
-
-const myIp = "http://192.168.201.221:10000"
+const myIp = "https://asn-api.onrender.com" 
+//const myIp = "http://192.168.178.221:10000"
 
 const requirements = document.querySelectorAll(".requirements")
 const specialChars = "!@#$%^&*()-_=+[{]}\\| :'\",<.>/?`~"
@@ -1320,7 +1319,7 @@ const util = {
                 util.setGroupCookie(data.region, data.fname, data.grp_id, data.email, data.voice, data.pic)/*=== SET GROUP COOKIE */
                 
                 // if(data.grp_id=="2"){//business dev0
-               location.href = '/main'
+               location.href = '/main.html'
                 /*
                 }else if( data.grp_id=="1" || data.grp_id=="0"){//engr/architect/acctg
                     location.href = '/dashboard.html'

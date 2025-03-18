@@ -249,7 +249,7 @@ const asn = {
 
     //for badge countr
     fetchBadgeData: async()=>{ //first to fire to update badge
-        fetch(`/fetchinitdata`).then((response) => {  //promise... then 
+        fetch(`/fetch\\data`).then((response) => {  //promise... then 
             return response.json();
         })
         .then((data) => {
@@ -1212,7 +1212,7 @@ const asn = {
         util.modalListeners('claimsModal')
         util.modalListeners('newempModal')
 
-        console.log('ola')
+        console.log('olat')
 
 	}//END init
 } //======================= end admin obj==========//
