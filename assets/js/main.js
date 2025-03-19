@@ -1147,14 +1147,79 @@ const asn = {
         })    
     },
 
+    //====== for finance peeps ===
+    getFinance: async( region ) =>{
+        console.log('finance')
+        let xparam = ""
+
+
+        if(util.getCookie('grp_id')=="2" ||
+            util.getCookie('grp_id')=="3"){
+            xparam = `/${region}/${util.getCookie('f_email')}`    
+        }else{
+
+        }//eif
+
+        await fetch(`${myIp}/getfinance${xparam}`,{
+            cache:'reload'
+        })
+        .then(res => res.text() )
+
+        .then(text => {	
+        //    // console.log('what the text? ',text)
+        //     osndp.notif('',true)
+            document.getElementById('claims_pasaways').innerHTML = ""
+            document.getElementById('claims_pasaways').innerHTML += text
+        //     document.getElementById('project-badge').innerHTML = parseInt(document.getElementById('reccount').innerHTML)
+        //     console.log( '**rec count** ',document.getElementById('reccount').innerHTML)
+            
+            util.scrollsTo('hub')
+
+            asn.getTopRider()
+        
+        })	
+        .catch((error) => {
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+    },
+
 	//==,= main run
 	init : async () => {
-        if(util.getCookie('grp_id')=="2"){
-            //turn off link
-            asn.getTopHub()
-        }else{
-            document.getElementById('claims_pasaways').innerHTML = ""
-        }
+
+        //alert(util.getCookie('grp_id'))
+
+        switch(util.getCookie('grp_id')){
+            case "2":
+                asn.getTopHub()
+                document.getElementById('claims_select').remove()
+            break;
+            case "3":
+                document.getElementById('claims_pasaways').innerHTML = ""
+                const xsel = `
+                    <div class="form-label"><i style="color:green;font-size:20px;" class="ti ti-map-pin"></i>&nbsp;Select Region</div>
+                    <div class="col-md-4 align-items-start">
+                    <select id='sel_region' onchange='javascript:asn.getFinance(this.value)' class='form-select'>
+                    <option value='NCR'>NCR</option>
+                    <option value='NOL'>NOL</option>
+                    <option value='SOL'>SOL</option>
+                    <option value='SOC'>SOC</option>
+                    <option value='EVIS'>EVIS</option>
+                    <option value='CVIS'>CVIS</option>
+                    <option value='WVIS'>WVIS</option>
+                    <option value='MIN'>MIN</option>
+                    </select>
+                    </div>`
+
+                document.getElementById('claims_select').innerHTML = xsel
+                
+                asn.getFinance(document.getElementById('sel_region').value)
+            break;
+            case "1":
+                document.getElementById('claims_pasaways').innerHTML = ""
+                document.getElementById('claims_pasaways').innerHTML = "nope"
+            break;    
+        } //end case
         
 		//change form action 
 		//document.getElementById('claimsuploadForm').action=`${myIp}/claims`
