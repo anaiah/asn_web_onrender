@@ -819,11 +819,11 @@ const asn = {
             console.log('redy to search')
             let xurl = ""
             if(e_num!=="" && e_name==""){
-                xurl = `${myIp}/getrecord/${e_num}/blank/${util.getCookie('f_email')}` 
+                xurl = `${myIp}/getrecord/${e_num}/blank/${util.getCookie('grp_id')}/${util.getCookie('f_email')}` 
             }else if (e_num=="" && e_name!==""){
-                xurl = `${myIp}/getrecord/blank/${e_name}/${util.getCookie('f_email')}` 
+                xurl = `${myIp}/getrecord/blank/${e_name}/${util.getCookie('grp_id')}/${util.getCookie('f_email')}` 
             }else{
-                xurl = `${myIp}/getrecord/${e_num}/${e_name}/${util.getCookie('f_email')}` 
+                xurl = `${myIp}/getrecord/${e_num}/${e_name}/${util.getCookie('grp_id')}/${util.getCookie('f_email')}` 
             }
 
             fetch( xurl ,{
@@ -877,7 +877,7 @@ const asn = {
         
         asn.speaks('DOWNLOADING PDF PLEASE WAIT!')
 
-        fetch(`${myIp}/checkpdf/${e_num}`,{
+        fetch(`${myIp}/checkpdf/${e_num}/${util.getCookie('grp_id')}`,{
             cache:'reload'
         })
         .then(response => {  
@@ -1020,7 +1020,7 @@ const asn = {
         if(util.getCookie('grp_id')=="2"){
             xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}`    
         }else{
-
+            xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}`
         }//eif
 
         await fetch(`${myIp}/gethub${xparam}`,{
@@ -1046,7 +1046,8 @@ const asn = {
             console.error('Error:', error)
         })    
     },
-    // get top 5 rider pasaway
+
+    // =====get top 5 rider pasaway
     getTopRider: async() => {
 
         let xparam = ""
@@ -1054,7 +1055,7 @@ const asn = {
         if(util.getCookie('grp_id')=="2"){
             xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}` 
         }else{
-
+            xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}`
         }//eif
 
         await fetch(`${myIp}/getrider${xparam}`,{
@@ -1089,7 +1090,7 @@ const asn = {
         if(util.getCookie('grp_id')=="2"){
            xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}`    
         }else{
-
+            xparam = `/${util.getCookie('f_region')}/${util.getCookie('f_email')}`
         }//eif
 
         await fetch(`${myIp}/claimsupdate${xparam}`,{
@@ -1111,6 +1112,7 @@ const asn = {
 
             util.scrollsTo('current_projects')
         
+            asn.getListPdf(1) // call List of ATDs
         })	
         .catch((error) => {
             //util.Toast(`Error:, ${error}`,1000)
@@ -1146,6 +1148,38 @@ const asn = {
             console.error('Error:', error)
         })    
     },
+
+    //===== show List of completed PDFs
+    getListPdf: async( nPage) =>{
+
+        document.getElementById('claims_select').innerHTML = "" //reset
+        
+        await fetch(`${myIp}/getlistpdf/1/${nPage}`,{
+            cache:'reload'
+        })
+        .then(res => res.text() )
+        .then(text => {
+
+            const texts =`<div class="container-fluid">
+                <div>${text}</div>
+                </div>
+                `
+
+            document.getElementById('claims_select').innerHTML = texts
+
+            console.log( '**rec count** ',document.getElementById('reccount').innerHTML)
+
+            return true
+        })  
+        .catch((error) => {
+            zonked.notif('','p-notif',true)
+            //util.Toast(`Error:, ${error}`,1000)
+            console.error('Error:', error)
+        })    
+            
+    
+    },
+
 
     //====== for finance peeps ===
     getFinance: async( region ) =>{
@@ -1187,39 +1221,9 @@ const asn = {
 	//==,= main run
 	init : async () => {
 
-        //alert(util.getCookie('grp_id'))
+       asn.getTopHub()
+        //document.getElementById('claims_select').remove()
 
-        switch(util.getCookie('grp_id')){
-            case "2":
-                asn.getTopHub()
-                document.getElementById('claims_select').remove()
-            break;
-            case "3":
-                document.getElementById('claims_pasaways').innerHTML = ""
-                const xsel = `
-                    <div class="form-label"><i style="color:green;font-size:20px;" class="ti ti-map-pin"></i>&nbsp;Select Region</div>
-                    <div class="col-md-4 align-items-start">
-                    <select id='sel_region' onchange='javascript:asn.getFinance(this.value)' class='form-select'>
-                    <option value='NCR'>NCR</option>
-                    <option value='NOL'>NOL</option>
-                    <option value='SOL'>SOL</option>
-                    <option value='SOC'>SOC</option>
-                    <option value='EVIS'>EVIS</option>
-                    <option value='CVIS'>CVIS</option>
-                    <option value='WVIS'>WVIS</option>
-                    <option value='MIN'>MIN</option>
-                    </select>
-                    </div>`
-
-                document.getElementById('claims_select').innerHTML = xsel
-                
-                asn.getFinance(document.getElementById('sel_region').value)
-            break;
-            case "1":
-                document.getElementById('claims_pasaways').innerHTML = ""
-                document.getElementById('claims_pasaways').innerHTML = "nope"
-            break;    
-        } //end case
         
 		//change form action 
 		//document.getElementById('claimsuploadForm').action=`${myIp}/claims`
@@ -1277,17 +1281,17 @@ const asn = {
         util.modalListeners('claimsModal')
         util.modalListeners('newempModal')
 
-        console.log('olat')
+        console.log('praise God!')
 
 	}//END init
 } //======================= end admin obj==========//
 //osndp.Bubbl
 window.scrollTo(0,0);
-asn.init()
 
 
 document.addEventListener('DOMContentLoaded', function() {
     // let bgimage = ['asiaone1.png', 'bgrnd.png']
+
     // let xx = Math.floor(Math.random() * 2);
 
     // document.getElementById('myBody').style.backgroundImage = `url('/assets/images/backgrounds/${bgimage[xx] }')`
@@ -1299,7 +1303,8 @@ document.addEventListener('DOMContentLoaded', function() {
     //       document.getElementById('myCard').classList.add('show');
     //   }, 2000); // Delay of 1000 milliseconds (1 second)
 
-
+    asn.init()
+    
 });
 
   
