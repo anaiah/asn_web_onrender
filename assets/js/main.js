@@ -1082,7 +1082,7 @@ const asn = {
     },
 
 
-    // get top 5 rider pasaway
+    // get overall uploaded
     getClaimsUpdate: async() => {
 
         let xparam = ""
@@ -1112,7 +1112,12 @@ const asn = {
 
             util.scrollsTo('current_projects')
         
-            asn.getListPdf(1) // call List of ATDs
+            if(util.getCookie('grp_id')!=="2"){
+                asn.getListPdf(1) // call List of ATDs
+            }else{
+                document.getElementById('list_atd').remove()
+                
+            }//eif
         })	
         .catch((error) => {
             //util.Toast(`Error:, ${error}`,1000)
