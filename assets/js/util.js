@@ -1319,7 +1319,8 @@ const util = {
                 util.setGroupCookie(data.region, data.fname, data.grp_id, data.email, data.voice, data.pic)/*=== SET GROUP COOKIE */
                 
                 // if(data.grp_id=="2"){//business dev0
-               location.href = '/main.html'
+               //location.href = '/main.html'
+                location.href = '/dashboard'
                 /*
                 }else if( data.grp_id=="1" || data.grp_id=="0"){//engr/architect/acctg
                     location.href = '/dashboard.html'
